@@ -90,8 +90,7 @@ Activate the snakemake environment for running the pipeline.
 
 
 
-[!WARNING]
-
+# Important Note
 This pipeline is designed for assembled influenza sequences with known subtypes.
 
 Currently, only the HA segment is supported.
