@@ -1,0 +1,93 @@
+strain	passage	center	type	clade	subclade	location
+A/Sydney/5/2021e_F	E3	Clinical Virology Unit, CDIM	Vaccine	6B.1A.5a.2a	C.1	NA
+A/Victoria/4897/2022e_F	E3	Royal Melbourne Hospital	Vaccine	6B.1A.5a.2a.1	D	NA
+A/Wisconsin/67/2022	S1	Centers for Disease Control and Prevention	Vaccine	6B.1A.5a.2a.1	C.1.1	NA
+A/India/Pun-NIV319324/2021	MDCK2	ICMR-National Institute of Virology	Reference	6B.1A.5a.2a	C.1	NA
+A/Sydney/1/2024_F	MDCK2	Childrens Hospital Westmead	Reference	6B.1A.5a.2a.1	C.1.1	NA
+A/Wisconsin/588/2019	C1	Centers for Disease Control and Prevention	Vaccine	6B.1A.5a.2	C	NA
+A/Wisconsin/47/2022	S2	Centers for Disease Control and Prevention	Reference	6B.1A.5a.2a.1	D	NA
+A/Darwin/328/2024_F	SIAT1	Royal Darwin Hospital	Ferret Serology	6B.1A.5a.2a	C.1.8	NA
+A/Darwin/463/2023_F	MDCK1	Royal Darwin Hospital	Ferret Serology	6B.1A.5a.2a	C.1.7.1	NA
+A/Darwin/7/2023_F	SIAT1	Royal Darwin Hospital	Ferret Serology	6B.1A.5a.2a	C.1.6	NA
+A/Sydney/5/2021_F	MDCK3	Clinical Virology Unit, CDIM	Ferret Serology	6B.1A.5a.2a	C.1	NA
+A/Sydney/604/2023_F	MDCK1	Childrens Hospital Westmead	Ferret Serology	6B.1A.5a.2a	C.1	NA
+A/Victoria/376/2024_F	SIAT1	Monash Medical Centre	Ferret Serology	6B.1A.5a.2a	C.1.9	NA
+A/Victoria/4897/2022_F_S	SIAT1/MDCK1	Royal Melbourne Hospital	Human Serology	6B.1A.5a.2a.1	D	NA
+A/Victoria/650/2023_F	SIAT1	WHO Collaborating Centre for Reference and Research on Influenza	Ferret Serology	6B.1A.5a.2a	C.1	NA
+A/Victoria/3370/2024_S	SIAT1		Human Serology	6B.1A.5a.2a	C.1.9.2	NA
+A/Darwin/1906/2024_S	SIAT1		Human Serology	6B.1A.5a.2a	C.1.9.3	NA
+A/Victoria/3263/2024_S	SIAT1		Human Serology	6B.1A.5a.2a	C.1.9.4	NA
+othA/California/LACPHL-INF00606/2024	Original		NA	6B.1A.5a.2a.1	D	NA
+othA/Scotland/003_203/2024		West of Scotland Specialist Virology Centre	NA	6B.1A.5a.2a	C.1.9.3	NA
+niidA/Tokyo/EIS10-980/2024	Original	National Institute of Infectious Diseases	NA	6B.1A.5a.2a.1	D.5	NA
+cdcA/Tennessee/86/2024	OR_IR	Centers for Disease Control and Prevention	NA	6B.1A.5a.2a.1	D.5	NA
+othA/Sling/5435/2024	original _VTM	Public Health Wales Microbiology Cardiff	NA	6B.1A.5a.2a	C.1.9.4	NA
+tnicA/Bangkok/P3920/2024	Original	Thai National Influenza Center	NA	6B.1A.5a.2a.1	D.3	NA
+othA/Hong_Kong/2931/2024	MDCK	Hong Kong Department of Health	NA	6B.1A.5a.2a.1	D.1	NA
+othA/Vietnam/Binh_Dinh/RV1_240118/2024		Pasteur Institute in Nha Trang	NA	6B.1A.5a.2a	C.1.9.1	NA
+othA/French_Polynesia/HCL024201357901/2024	Original	CNR Virus des Infections Respiratoires, France SUD	NA	6B.1A.5a.2a.1	D.5	NA
+cdcA/Michigan/59/2023	OR_IR	Centers for Disease Control and Prevention	NA	6B.1A.5a.2a	C.1.9	NA
+cdcA/Connecticut/17/2023	OR_IR	Centers for Disease Control and Prevention	NA	6B.1A.5a.2a	C.1.8	NA
+cdcA/Michigan/62/2023	Spf2E1	Centers for Disease Control and Prevention	NA	6B.1A.5a.2a	C.1.8	NA
+crickA/Israel/R18527/2024	cs	Crick Worldwide Influenza Centre	NA	6B.1A.5a.2a	C.1.9.3	NA
+cnicA/Henan-Shancheng/SWL1468/2024	C1+C1	WHO Chinese National Influenza Center	NA	6B.1A.5a.2a	C.1.9.3	NA
+A/Tasmania/25/2025_jan	MDCK1	Royal Hobart Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Darwin/274/2025_mar_o	ORIGINAL	Royal Darwin Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Darwin/247/2025_mar	SIAT1	Royal Darwin Hospital	NA	6B.1A.5a.2a.1	D.3	Australia
+A/Victoria/152/2025_jan	SIAT1	Monash Medical Centre	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Victoria/252/2025_feb	SIAT1	Monash Medical Centre	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Canberra/45/2025_jan_e	E2	Canberra Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Sydney/52/2025_feb	MDCK1	Childrens Hospital Westmead	NA	6B.1A.5a.2a	C.1.9	Australia
+A/Tasmania/49/2025_feb	MDCK1	Royal Hobart Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Victoria/226/2025_jan	SIAT1	Monash Medical Centre	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Canberra/93/2025_feb	MDCK2	Canberra Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Victoria/190/2025_feb	SIAT1	Royal Melbourne Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/New_Caledonia/50/2024_dec_o	ORIGINAL	Institut Pasteur New Caledonia	NA	6B.1A.5a.2a	C.1.9.3	New Caledonia
+A/Sydney/47/2025_feb	SIAT1	Clinical Virology Unit, CDIM	NA	6B.1A.5a.2a	C.1.9	Australia
+A/New_Caledonia/54/2024_dec	MDCK1	Institut Pasteur New Caledonia	NA	6B.1A.5a.2a	C.1.9.3	New Caledonia
+A/Tasmania/32/2025_jan	MDCK2	Royal Hobart Hospital	NA	6B.1A.5a.2a	C.1.9	Australia
+A/Brisbane/17/2025_feb	SIAT1	Princess Alexandra Hospital	NA	6B.1A.5a.2a.1	D.3	Australia
+A/Victoria/235/2025_feb	SIAT1	Monash Medical Centre	NA	6B.1A.5a.2a	C.1.9	Australia
+A/Victoria/250/2025_mar_o	ORIGINAL	Royal Melbourne Hospital	NA	6B.1A.5a.2a	C.1.9	Australia
+A/Canberra/108/2025_feb_o	ORIGINAL	Canberra Hospital	NA	6B.1A.5a.2a.1	D.3	Australia
+A/Darwin/230/2025_feb	SIAT1	Royal Darwin Hospital	NA	6B.1A.5a.2a.1	D.3	Australia
+A/New_Caledonia/61/2024_dec_o	ORIGINAL	Institut Pasteur New Caledonia	NA	6B.1A.5a.2a	C.1.9.3	New Caledonia
+A/Darwin/131/2025_feb	SIAT2	Royal Darwin Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/New_Caledonia/50/2024_dec	MDCK1	Institut Pasteur New Caledonia	NA	6B.1A.5a.2a	C.1.9.3	New Caledonia
+A/Canberra/7/2025_jan	MDCK2	Canberra Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Sydney/49/2025_feb	SIAT1	Childrens Hospital Westmead	NA	6B.1A.5a.2a.1	D.3	Australia
+A/Victoria/3296/2024_sep_o	ORIGINAL	Royal Chidrens Hospital	NA	6B.1A.5a.2a	C.1.9.1	Australia
+A/Victoria/159/2025_jan	SIAT1	Monash Medical Centre	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Nepal/N1428/2024_aug	MDCK2	National Public Health Laboratory	NA	6B.1A.5a.2a	C.1.9	Nepal
+A/Victoria/155/2025_jan	SIAT1	Monash Medical Centre	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/New_Caledonia/60/2024_dec	MDCK1	Institut Pasteur New Caledonia	NA	6B.1A.5a.2a	C.1.9.3	New Caledonia
+A/Darwin/204A/2025_feb	SIAT1	Royal Darwin Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Philippines/27/2024_nov_o	ORIGINAL	Research Institute of Tropical Medicine	NA	6B.1A.5a.2a	C.1.9	Philippines
+A/Canberra/95/2025_feb_o	ORIGINAL	Canberra Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Darwin/139/2025_feb	SIAT1	Royal Darwin Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Victoria/239/2025_feb_o	ORIGINAL	Royal Chidrens Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Darwin/289a/2025_mar_o	ORIGINAL	Royal Darwin Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Perth/7/2025_jan	MDCK1	Pathwest QE II Medical Centre	NA	6B.1A.5a.2a.1	D.3	Australia
+A/Perth/13/2025_feb	MDCK1	Pathwest QE II Medical Centre	NA	6B.1A.5a.2a	C.1.9.1	Australia
+A/Canberra/42/2025_jan_e	E3	Canberra Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Victoria/242/2025_feb	SIAT1	Monash Medical Centre	NA	6B.1A.5a.2a.1	D.3	Australia
+A/Canberra/89/2025_feb_o	ORIGINAL	Canberra Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/New_Caledonia/54/2024_dec_o	ORIGINAL	Institut Pasteur New Caledonia	NA	6B.1A.5a.2a	C.1.9.3	New Caledonia
+A/Canberra/53/2025_jan	SIAT1	Canberra Hospital	NA	6B.1A.5a.2a	C.1.9	Australia
+A/Victoria/225/2025_jan	SIAT1	Monash Medical Centre	NA	6B.1A.5a.2a	C.1.9.1	Australia
+A/New_Caledonia/64/2024_dec	MDCK1	Institut Pasteur New Caledonia	NA	6B.1A.5a.2a	C.1.9.3	New Caledonia
+A/Victoria/256/2025_mar_o	ORIGINAL	Royal Chidrens Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Victoria/151/2025_jan	SIAT1	Monash Medical Centre	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Victoria/121/2025_feb	SIAT1	Royal Melbourne Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Victoria/156/2025_jan	SIAT1	Monash Medical Centre	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Victoria/163/2025_jan	SIAT1	Monash Medical Centre	NA	6B.1A.5a.2a	C.1.9	Australia
+A/Darwin/278/2025_mar_o	ORIGINAL	Royal Darwin Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Tasmania/48/2025_feb	MDCK2	Royal Hobart Hospital	NA	6B.1A.5a.2a.1	D.3	Australia
+A/Canberra/2/2025_jan	MDCK1	Canberra Hospital	NA	6B.1A.5a.2a.1	D.3	Australia
+A/Perth/8/2025_jan	MDCK1	Pathwest QE II Medical Centre	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Sydney/44/2025_feb	SIAT1	Clinical Virology Unit, CDIM	NA	6B.1A.5a.2a.1	D.3	Australia
+A/Victoria/158/2025_jan	SIAT1	Monash Medical Centre	NA	6B.1A.5a.2a.1	D.3	Australia
+A/Tasmania/30/2025_jan	MDCK3	Royal Hobart Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Tasmania/26/2025_jan	SIAT1	Royal Hobart Hospital	NA	6B.1A.5a.2a	C.1.9.3	Australia
+A/Victoria/213/2025_jan	SIAT1	Monash Medical Centre	NA	6B.1A.5a.2a.1	D.3	Australia
+A/Tasmania/33/2025_jan	MDCK1	Royal Hobart Hospital	NA	6B.1A.5a.2a.1	D.3	Australia

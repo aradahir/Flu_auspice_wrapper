@@ -1,0 +1,61 @@
+strain	designation	gisaid_epi_isl	passage	center	date	month	type	location
+A/Tasmania/25/2025_jan	A/Tasmania/25/2025	EPI_ISL_19812928	MDCK1	Royal Hobart Hospital	15/1/2025	jan	NA	Australia
+A/Darwin/274/2025_mar_o	A/Darwin/274/2025	EPI_ISL_19812995	ORIGINAL	Royal Darwin Hospital	2/3/2025	mar	NA	Australia
+A/Darwin/247/2025_mar	A/Darwin/247/2025	EPI_ISL_19813025	SIAT1	Royal Darwin Hospital	1/3/2025	mar	NA	Australia
+A/Victoria/152/2025_jan	A/Victoria/152/2025	EPI_ISL_19813016	SIAT1	Monash Medical Centre	4/1/2025	jan	NA	Australia
+A/Victoria/252/2025_feb	A/Victoria/252/2025	EPI_ISL_19813030	SIAT1	Monash Medical Centre	17/2/2025	feb	NA	Australia
+A/Canberra/45/2025_jan_e	A/Canberra/45/2025	EPI_ISL_19812956	E2	Canberra Hospital	13/1/2025	jan	NA	Australia
+A/Sydney/52/2025_feb	A/Sydney/52/2025	EPI_ISL_19813008	MDCK1	Childrens Hospital Westmead	19/2/2025	feb	NA	Australia
+A/Tasmania/49/2025_feb	A/Tasmania/49/2025	EPI_ISL_19812980	MDCK1	Royal Hobart Hospital	21/2/2025	feb	NA	Australia
+A/Victoria/226/2025_jan	A/Victoria/226/2025	EPI_ISL_19812974	SIAT1	Monash Medical Centre	23/1/2025	jan	NA	Australia
+A/Canberra/93/2025_feb	A/Canberra/93/2025	EPI_ISL_19813023	MDCK2	Canberra Hospital	6/2/2025	feb	NA	Australia
+A/Victoria/190/2025_feb	A/Victoria/190/2025	EPI_ISL_19813003	SIAT1	Royal Melbourne Hospital	19/2/2025	feb	NA	Australia
+A/New_Caledonia/50/2024_dec_o	A/New_Caledonia/50/2024	EPI_ISL_19812893	ORIGINAL	Institut Pasteur New Caledonia	3/12/2024	dec	NA	New Caledonia
+A/Sydney/47/2025_feb	A/Sydney/47/2025	EPI_ISL_19812903	SIAT1	"Clinical Virology Unit, CDIM"	18/2/2025	feb	NA	Australia
+A/New_Caledonia/54/2024_dec	A/New_Caledonia/54/2024	EPI_ISL_19812897	MDCK1	Institut Pasteur New Caledonia	9/12/2024	dec	NA	New Caledonia
+A/Tasmania/32/2025_jan	A/Tasmania/32/2025	EPI_ISL_19813040	MDCK2	Royal Hobart Hospital	24/1/2025	jan	NA	Australia
+A/Brisbane/17/2025_feb	A/Brisbane/17/2025	EPI_ISL_19812896	SIAT1	Princess Alexandra Hospital	17/2/2025	feb	NA	Australia
+A/Victoria/235/2025_feb	A/Victoria/235/2025	EPI_ISL_19812978	SIAT1	Monash Medical Centre	10/2/2025	feb	NA	Australia
+A/Victoria/250/2025_mar_o	A/Victoria/250/2025	EPI_ISL_19813000	ORIGINAL	Royal Melbourne Hospital	3/3/2025	mar	NA	Australia
+A/Canberra/108/2025_feb_o	A/Canberra/108/2025	EPI_ISL_19812964	ORIGINAL	Canberra Hospital	24/2/2025	feb	NA	Australia
+A/Darwin/230/2025_feb	A/Darwin/230/2025	EPI_ISL_19813019	SIAT1	Royal Darwin Hospital	25/2/2025	feb	NA	Australia
+A/New_Caledonia/61/2024_dec_o	A/New_Caledonia/61/2024	EPI_ISL_19812891	ORIGINAL	Institut Pasteur New Caledonia	15/12/2024	dec	NA	New Caledonia
+A/Darwin/131/2025_feb	A/Darwin/131/2025	EPI_ISL_19812904	SIAT2	Royal Darwin Hospital	11/2/2025	feb	NA	Australia
+A/New_Caledonia/50/2024_dec	A/New_Caledonia/50/2024	EPI_ISL_19812905	MDCK1	Institut Pasteur New Caledonia	3/12/2024	dec	NA	New Caledonia
+A/Canberra/7/2025_jan	A/Canberra/7/2025	EPI_ISL_19812944	MDCK2	Canberra Hospital	3/1/2025	jan	NA	Australia
+A/Sydney/49/2025_feb	A/Sydney/49/2025	EPI_ISL_19812966	SIAT1	Childrens Hospital Westmead	15/2/2025	feb	NA	Australia
+A/Victoria/3296/2024_sep_o	A/Victoria/3296/2024	EPI_ISL_19812879	ORIGINAL	Royal Chidrens Hospital	19/9/2024	sep	NA	Australia
+A/Victoria/159/2025_jan	A/Victoria/159/2025	EPI_ISL_19813024	SIAT1	Monash Medical Centre	14/1/2025	jan	NA	Australia
+A/Nepal/N1428/2024_aug	A/Nepal/N1428/2024	EPI_ISL_19812941	MDCK2	National Public Health Laboratory	29/8/2024	aug	NA	Nepal
+A/Victoria/155/2025_jan	A/Victoria/155/2025	EPI_ISL_19813018	SIAT1	Monash Medical Centre	11/1/2025	jan	NA	Australia
+A/New_Caledonia/60/2024_dec	A/New_Caledonia/60/2024	EPI_ISL_19812902	MDCK1	Institut Pasteur New Caledonia	15/12/2024	dec	NA	New Caledonia
+A/Darwin/204A/2025_feb	A/Darwin/204A/2025	EPI_ISL_19812909	SIAT1	Royal Darwin Hospital	28/2/2025	feb	NA	Australia
+A/Philippines/27/2024_nov_o	A/Philippines/27/2024	EPI_ISL_19812880	ORIGINAL	Research Institute of Tropical Medicine	4/11/2024	nov	NA	Philippines
+A/Canberra/95/2025_feb_o	A/Canberra/95/2025	EPI_ISL_19812885	ORIGINAL	Canberra Hospital	10/2/2025	feb	NA	Australia
+A/Darwin/139/2025_feb	A/Darwin/139/2025	EPI_ISL_19812921	SIAT1	Royal Darwin Hospital	13/2/2025	feb	NA	Australia
+A/Victoria/239/2025_feb_o	A/Victoria/239/2025	EPI_ISL_19813001	ORIGINAL	Royal Chidrens Hospital	25/2/2025	feb	NA	Australia
+A/Darwin/289a/2025_mar_o	A/Darwin/289a/2025	EPI_ISL_19812999	ORIGINAL	Royal Darwin Hospital	3/3/2025	mar	NA	Australia
+A/Perth/7/2025_jan	A/Perth/7/2025	EPI_ISL_19812911	MDCK1	Pathwest QE II Medical Centre	21/1/2025	jan	NA	Australia
+A/Perth/13/2025_feb	A/Perth/13/2025	EPI_ISL_19812914	MDCK1	Pathwest QE II Medical Centre	3/2/2025	feb	NA	Australia
+A/Canberra/42/2025_jan_e	A/Canberra/42/2025	EPI_ISL_19812958	E3	Canberra Hospital	11/1/2025	jan	NA	Australia
+A/Victoria/242/2025_feb	A/Victoria/242/2025	EPI_ISL_19813034	SIAT1	Monash Medical Centre	21/2/2025	feb	NA	Australia
+A/Canberra/89/2025_feb_o	A/Canberra/89/2025	EPI_ISL_19812883	ORIGINAL	Canberra Hospital	10/2/2025	feb	NA	Australia
+A/New_Caledonia/54/2024_dec_o	A/New_Caledonia/54/2024	EPI_ISL_19812889	ORIGINAL	Institut Pasteur New Caledonia	9/12/2024	dec	NA	New Caledonia
+A/Canberra/53/2025_jan	A/Canberra/53/2025	EPI_ISL_19812919	SIAT1	Canberra Hospital	21/1/2025	jan	NA	Australia
+A/Victoria/225/2025_jan	A/Victoria/225/2025	EPI_ISL_19812973	SIAT1	Monash Medical Centre	23/1/2025	jan	NA	Australia
+A/New_Caledonia/64/2024_dec	A/New_Caledonia/64/2024	EPI_ISL_19812900	MDCK1	Institut Pasteur New Caledonia	17/12/2024	dec	NA	New Caledonia
+A/Victoria/256/2025_mar_o	A/Victoria/256/2025	EPI_ISL_19813031	ORIGINAL	Royal Chidrens Hospital	4/3/2025	mar	NA	Australia
+A/Victoria/151/2025_jan	A/Victoria/151/2025	EPI_ISL_19813009	SIAT1	Monash Medical Centre	4/1/2025	jan	NA	Australia
+A/Victoria/121/2025_feb	A/Victoria/121/2025	EPI_ISL_19812950	SIAT1	Royal Melbourne Hospital	6/2/2025	feb	NA	Australia
+A/Victoria/156/2025_jan	A/Victoria/156/2025	EPI_ISL_19813020	SIAT1	Monash Medical Centre	11/1/2025	jan	NA	Australia
+A/Victoria/163/2025_jan	A/Victoria/163/2025	EPI_ISL_19813028	SIAT1	Monash Medical Centre	16/1/2025	jan	NA	Australia
+A/Darwin/278/2025_mar_o	A/Darwin/278/2025	EPI_ISL_19812996	ORIGINAL	Royal Darwin Hospital	2/3/2025	mar	NA	Australia
+A/Tasmania/48/2025_feb	A/Tasmania/48/2025	EPI_ISL_19813044	MDCK2	Royal Hobart Hospital	21/2/2025	feb	NA	Australia
+A/Canberra/2/2025_jan	A/Canberra/2/2025	EPI_ISL_19812922	MDCK1	Canberra Hospital	1/1/2025	jan	NA	Australia
+A/Perth/8/2025_jan	A/Perth/8/2025	EPI_ISL_19812912	MDCK1	Pathwest QE II Medical Centre	21/1/2025	jan	NA	Australia
+A/Sydney/44/2025_feb	A/Sydney/44/2025	EPI_ISL_19812899	SIAT1	"Clinical Virology Unit, CDIM"	14/2/2025	feb	NA	Australia
+A/Victoria/158/2025_jan	A/Victoria/158/2025	EPI_ISL_19813022	SIAT1	Monash Medical Centre	13/1/2025	jan	NA	Australia
+A/Tasmania/30/2025_jan	A/Tasmania/30/2025	EPI_ISL_19813039	MDCK3	Royal Hobart Hospital	21/1/2025	jan	NA	Australia
+A/Tasmania/26/2025_jan	A/Tasmania/26/2025	EPI_ISL_19812916	SIAT1	Royal Hobart Hospital	15/1/2025	jan	NA	Australia
+A/Victoria/213/2025_jan	A/Victoria/213/2025	EPI_ISL_19812972	SIAT1	Monash Medical Centre	18/1/2025	jan	NA	Australia
+A/Tasmania/33/2025_jan	A/Tasmania/33/2025	EPI_ISL_19812947	MDCK1	Royal Hobart Hospital	30/1/2025	jan	NA	Australia

@@ -1,0 +1,43 @@
+strain	passage	center	type	clade	subclade	location
+A/Sydney/5/2021e_F	E3	Clinical Virology Unit, CDIM	Vaccine	6B.1A.5a.2a	C.1	NA
+A/Victoria/4897/2022e_F	E3	Royal Melbourne Hospital	Vaccine	6B.1A.5a.2a.1	D	NA
+A/Wisconsin/67/2022	S1	Centers for Disease Control and Prevention	Vaccine	6B.1A.5a.2a.1	C.1.1	NA
+A/India/Pun-NIV319324/2021	MDCK2	ICMR-National Institute of Virology	Reference	6B.1A.5a.2a	C.1	NA
+A/Sydney/1/2024_F	MDCK2	Childrens Hospital Westmead	Reference	6B.1A.5a.2a.1	C.1.1	NA
+A/Wisconsin/588/2019	C1	Centers for Disease Control and Prevention	Vaccine	6B.1A.5a.2	C	NA
+A/Wisconsin/47/2022	S2	Centers for Disease Control and Prevention	Reference	6B.1A.5a.2a.1	D	NA
+A/Darwin/328/2024_F	SIAT1	Royal Darwin Hospital	Ferret Serology	6B.1A.5a.2a	C.1.8	NA
+A/Darwin/463/2023_F	MDCK1	Royal Darwin Hospital	Ferret Serology	6B.1A.5a.2a	C.1.7.1	NA
+A/Darwin/7/2023_F	SIAT1	Royal Darwin Hospital	Ferret Serology	6B.1A.5a.2a	C.1.6	NA
+A/Sydney/5/2021_F	MDCK3	Clinical Virology Unit, CDIM	Ferret Serology	6B.1A.5a.2a	C.1	NA
+A/Sydney/604/2023_F	MDCK1	Childrens Hospital Westmead	Ferret Serology	6B.1A.5a.2a	C.1	NA
+A/Victoria/376/2024_F	SIAT1	Monash Medical Centre	Ferret Serology	6B.1A.5a.2a	C.1.9	NA
+A/Victoria/4897/2022_F_S	SIAT1/MDCK1	Royal Melbourne Hospital	Human Serology	6B.1A.5a.2a.1	D	NA
+A/Victoria/650/2023_F	SIAT1	WHO Collaborating Centre for Reference and Research on Influenza	Ferret Serology	6B.1A.5a.2a	C.1	NA
+A/Victoria/3370/2024_S	SIAT1		Human Serology	6B.1A.5a.2a	C.1.9.2	NA
+A/Darwin/1906/2024_S	SIAT1		Human Serology	6B.1A.5a.2a	C.1.9.3	NA
+A/Victoria/3263/2024_S	SIAT1		Human Serology	6B.1A.5a.2a	C.1.9.4	NA
+othA/California/LACPHL-INF00606/2024	Original		NA	6B.1A.5a.2a.1	D	NA
+othA/Scotland/003_203/2024		West of Scotland Specialist Virology Centre	NA	6B.1A.5a.2a	C.1.9.3	NA
+niidA/Tokyo/EIS10-980/2024	Original	National Institute of Infectious Diseases (NIID)	NA	6B.1A.5a.2a.1	D.5	NA
+cdcA/Tennessee/86/2024	OR_IR	Centers for Disease Control and Prevention	NA	6B.1A.5a.2a.1	D.5	NA
+othA/Sling/5435/2024	original (VTM)	Public Health Wales Microbiology Cardiff	NA	6B.1A.5a.2a	C.1.9.4	NA
+tnicA/Bangkok/P3920/2024	Original	Thai National Influenza Center	NA	6B.1A.5a.2a.1	D.3	NA
+othA/Hong_Kong/2931/2024	MDCK	Hong Kong Department of Health	NA	6B.1A.5a.2a.1	D.1	NA
+othA/Vietnam/Binh_Dinh/RV1_240118/2024		Pasteur Institute in Nha Trang	NA	6B.1A.5a.2a	C.1.9.1	NA
+othA/French_Polynesia/HCL024201357901/2024	Original	CNR Virus des Infections Respiratoires, France SUD	NA	6B.1A.5a.2a.1	D.5	NA
+cdcA/Michigan/59/2023	OR_IR	Centers for Disease Control and Prevention	NA	6B.1A.5a.2a	C.1.9	NA
+cdcA/Connecticut/17/2023	OR_IR	Centers for Disease Control and Prevention	NA	6B.1A.5a.2a	C.1.8	NA
+cdcA/Michigan/62/2023	Spf2E1	Centers for Disease Control and Prevention	NA	6B.1A.5a.2a	C.1.8	NA
+crickA/Israel/R18527/2024	cs	Crick Worldwide Influenza Centre	NA	6B.1A.5a.2a	C.1.9.3	NA
+cnicA/Henan-Shancheng/SWL1468/2024	C1+C1	WHO Chinese National Influenza Center	NA	6B.1A.5a.2a	C.1.9.3	NA
+A/Brisbane/110/2024_apr	SIAT1	Queensland Children's Hospital	NA	6B.1A.5a.2a	C.1.9.4	Australia
+A/Brisbane/500/2023_sep	SIAT1	Queensland Children's Hospital	NA	6B.1A.5a.2a	C.1.7	Australia
+A/Brisbane/503/2023_sep	SIAT1	Queensland Children's Hospital	NA	6B.1A.5a.2a	C.1.9	Australia
+A/Brisbane/279/2024_jul	SIAT1	Queensland Children's Hospital	NA	6B.1A.5a.2a	C.1.9	Australia
+A/Brisbane/114/2024_jun	SIAT1	Queensland Children's Hospital	NA	6B.1A.5a.2a	C.1.9.1	Australia
+A/Brisbane/119/2024_may	SIAT1	Queensland Children's Hospital	NA	6B.1A.5a.2a	C.1.9	Australia
+A/Brisbane/123/2024_may	SIAT1	Queensland Children's Hospital	NA	6B.1A.5a.2a	C.1.9	Australia
+A/Brisbane/120/2024_may	SIAT1	Queensland Children's Hospital	NA	6B.1A.5a.2a	C.1.9	Australia
+A/Brisbane/107/2024_apr	SIAT1	Queensland Children's Hospital	NA	6B.1A.5a.2a	C.1.9.2	Australia
+A/Brisbane/317/2023_may	MDCK2	Queensland Children's Hospital	NA	6B.1A.5a.2a	C.1	Australia
