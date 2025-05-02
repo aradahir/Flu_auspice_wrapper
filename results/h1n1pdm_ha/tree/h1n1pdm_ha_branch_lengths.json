@@ -1,0 +1,1339 @@
+{
+  "alignment": "results/h1n1pdm_ha/tree/h1n1pdm_ha_aligned.fasta",
+  "clock": {
+    "intercept": -6.641466345238805,
+    "rate": 0.00329,
+    "rtt_Tmrca": 2018.6827797078436
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "29.0.0"
+  },
+  "input_tree": "results/h1n1pdm_ha/tree/h1n1pdm_ha_tree_raw.nwk",
+  "nodes": {
+    "A/Brisbane/17/2025_feb": {
+      "branch_length": 5.751508346410776e-05,
+      "clock_length": 5.751508346410776e-05,
+      "date": "2025-02-17",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.1301369863013,
+      "raw_date": "2025-02-17"
+    },
+    "A/Canberra/108/2025_feb_o": {
+      "branch_length": 0.0014192019254209748,
+      "clock_length": 0.0014192019254209748,
+      "date": "2025-02-24",
+      "date_inferred": false,
+      "mutation_length": 0.0028622957078793905,
+      "numdate": 2025.1493150684933,
+      "raw_date": "2025-02-24"
+    },
+    "A/Canberra/2/2025_jan": {
+      "branch_length": 0.00015580282955302807,
+      "clock_length": 0.00015580282955302807,
+      "date": "2025-01-01",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.0013698630137,
+      "raw_date": "2025-01-01"
+    },
+    "A/Canberra/42/2025_jan_e": {
+      "branch_length": 0.0003845766885251118,
+      "clock_length": 0.0003845766885251118,
+      "date": "2025-01-11",
+      "date_inferred": false,
+      "mutation_length": 0.0005718995064374116,
+      "numdate": 2025.0287671232877,
+      "raw_date": "2025-01-11"
+    },
+    "A/Canberra/45/2025_jan_e": {
+      "branch_length": 0.00040260408578512345,
+      "clock_length": 0.00040260408578512345,
+      "date": "2025-01-13",
+      "date_inferred": false,
+      "mutation_length": 0.001717777432683193,
+      "numdate": 2025.0342465753424,
+      "raw_date": "2025-01-13"
+    },
+    "A/Canberra/53/2025_jan": {
+      "branch_length": 0.0010607621867152017,
+      "clock_length": 0.0010607621867152017,
+      "date": "2025-01-21",
+      "date_inferred": false,
+      "mutation_length": 0.0022927971866144115,
+      "numdate": 2025.0561643835617,
+      "raw_date": "2025-01-21"
+    },
+    "A/Canberra/7/2025_jan": {
+      "branch_length": 0.0002915704737756219,
+      "clock_length": 0.0002915704737756219,
+      "date": "2025-01-03",
+      "date_inferred": false,
+      "mutation_length": 0.0005717068113247489,
+      "numdate": 2025.0068493150684,
+      "raw_date": "2025-01-03"
+    },
+    "A/Canberra/89/2025_feb_o": {
+      "branch_length": 0.0012468641730913137,
+      "clock_length": 0.0012468641730913137,
+      "date": "2025-02-10",
+      "date_inferred": false,
+      "mutation_length": 0.0022904508346109093,
+      "numdate": 2025.1109589041096,
+      "raw_date": "2025-02-10"
+    },
+    "A/Canberra/93/2025_feb": {
+      "branch_length": 0.0002343561643831435,
+      "clock_length": 0.0002343561643831435,
+      "date": "2025-02-06",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.1,
+      "raw_date": "2025-02-06"
+    },
+    "A/Canberra/95/2025_feb_o": {
+      "branch_length": 0.0006331768062948385,
+      "clock_length": 0.0006331768062948385,
+      "date": "2025-02-10",
+      "date_inferred": false,
+      "mutation_length": 0.0005717858665400641,
+      "numdate": 2025.1109589041096,
+      "raw_date": "2025-02-10"
+    },
+    "A/Darwin/131/2025_feb": {
+      "branch_length": 0.00025018934694356865,
+      "clock_length": 0.00025018934694356865,
+      "date": "2025-02-11",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.113698630137,
+      "raw_date": "2025-02-11"
+    },
+    "A/Darwin/139/2025_feb": {
+      "branch_length": 0.0002682167442043284,
+      "clock_length": 0.0002682167442043284,
+      "date": "2025-02-13",
+      "date_inferred": false,
+      "mutation_length": 0.001144391441938468,
+      "numdate": 2025.1191780821919,
+      "raw_date": "2025-02-13"
+    },
+    "A/Darwin/1906/2024_S": {
+      "branch_length": 0.00026313122049303355,
+      "clock_length": 0.00026313122049303355,
+      "date": "2024-12-08",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2024.9357923497269,
+      "raw_date": "2024-12-08"
+    },
+    "A/Darwin/204A/2025_feb": {
+      "branch_length": 0.00040342222365591184,
+      "clock_length": 0.00040342222365591184,
+      "date": "2025-02-28",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.1602739726027,
+      "raw_date": "2025-02-28"
+    },
+    "A/Darwin/230/2025_feb": {
+      "branch_length": 0.00039203537723662746,
+      "clock_length": 0.00039203537723662746,
+      "date": "2025-02-25",
+      "date_inferred": false,
+      "mutation_length": 0.0005717314324262786,
+      "numdate": 2025.1520547945206,
+      "raw_date": "2025-02-25"
+    },
+    "A/Darwin/247/2025_mar": {
+      "branch_length": 0.0004280901717566507,
+      "clock_length": 0.0004280901717566507,
+      "date": "2025-03-01",
+      "date_inferred": false,
+      "mutation_length": 0.0005716431505623863,
+      "numdate": 2025.16301369863,
+      "raw_date": "2025-03-01"
+    },
+    "A/Darwin/274/2025_mar_o": {
+      "branch_length": 0.0004214496209166715,
+      "clock_length": 0.0004214496209166715,
+      "date": "2025-03-02",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.1657534246576,
+      "raw_date": "2025-03-02"
+    },
+    "A/Darwin/278/2025_mar_o": {
+      "branch_length": 0.0004214496209166715,
+      "clock_length": 0.0004214496209166715,
+      "date": "2025-03-02",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.1657534246576,
+      "raw_date": "2025-03-02"
+    },
+    "A/Darwin/289a/2025_mar_o": {
+      "branch_length": 0.00043046331954667733,
+      "clock_length": 0.00043046331954667733,
+      "date": "2025-03-03",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.168493150685,
+      "raw_date": "2025-03-03"
+    },
+    "A/Darwin/328/2024_F": {
+      "branch_length": 0.0022206719577040047,
+      "clock_length": 0.0022206719577040047,
+      "date": "2024-04-19",
+      "date_inferred": false,
+      "mutation_length": 0.0011451288641063497,
+      "numdate": 2024.299180327869,
+      "raw_date": "2024-04-19"
+    },
+    "A/Darwin/463/2023_F": {
+      "branch_length": 0.007210095965267492,
+      "clock_length": 0.007210095965267492,
+      "date": "2023-11-02",
+      "date_inferred": false,
+      "mutation_length": 0.012132886349108401,
+      "numdate": 2023.83698630137,
+      "raw_date": "2023-11-02"
+    },
+    "A/Darwin/7/2023_F": {
+      "branch_length": 0.004250749780132725,
+      "clock_length": 0.004250749780132725,
+      "date": "2023-01-27",
+      "date_inferred": false,
+      "mutation_length": 0.004598512270596591,
+      "numdate": 2023.072602739726,
+      "raw_date": "2023-01-27"
+    },
+    "A/India/Pun-NIV319324/2021": {
+      "branch_length": 0.0001543529610564618,
+      "clock_length": 0.0001543529610564618,
+      "date": "2021-06-04",
+      "date_inferred": false,
+      "mutation_length": 0.0005718832702791981,
+      "numdate": 2021.4232876712329,
+      "raw_date": "2021-06-04"
+    },
+    "A/Nepal/N1428/2024_aug": {
+      "branch_length": 0.0012167843028905926,
+      "clock_length": 0.0012167843028905926,
+      "date": "2024-08-29",
+      "date_inferred": false,
+      "mutation_length": 0.004596354952917356,
+      "numdate": 2024.6598360655737,
+      "raw_date": "2024-08-29"
+    },
+    "A/New_Caledonia/50/2024_dec": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2024-12-03",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2024.922131147541,
+      "raw_date": "2024-12-03"
+    },
+    "A/New_Caledonia/50/2024_dec_o": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2024-12-03",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2024.922131147541,
+      "raw_date": "2024-12-03"
+    },
+    "A/New_Caledonia/54/2024_dec": {
+      "branch_length": 0.00010521089945649507,
+      "clock_length": 0.00010521089945649507,
+      "date": "2024-12-09",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2024.938524590164,
+      "raw_date": "2024-12-09"
+    },
+    "A/New_Caledonia/54/2024_dec_o": {
+      "branch_length": 0.00010521089945649507,
+      "clock_length": 0.00010521089945649507,
+      "date": "2024-12-09",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2024.938524590164,
+      "raw_date": "2024-12-09"
+    },
+    "A/New_Caledonia/60/2024_dec": {
+      "branch_length": 0.00010786885245923721,
+      "clock_length": 0.00010786885245923721,
+      "date": "2024-12-15",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2024.954918032787,
+      "raw_date": "2024-12-15"
+    },
+    "A/New_Caledonia/61/2024_dec_o": {
+      "branch_length": 0.00010786885245923721,
+      "clock_length": 0.00010786885245923721,
+      "date": "2024-12-15",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2024.954918032787,
+      "raw_date": "2024-12-15"
+    },
+    "A/New_Caledonia/64/2024_dec": {
+      "branch_length": 0.00017712346776240385,
+      "clock_length": 0.00017712346776240385,
+      "date": "2024-12-17",
+      "date_inferred": false,
+      "mutation_length": 0.0011441507404564245,
+      "numdate": 2024.9603825136612,
+      "raw_date": "2024-12-17"
+    },
+    "A/Perth/13/2025_feb": {
+      "branch_length": 0.0005677893653943097,
+      "clock_length": 0.0005677893653943097,
+      "date": "2025-02-03",
+      "date_inferred": false,
+      "mutation_length": 0.001717549648658257,
+      "numdate": 2025.0917808219178,
+      "raw_date": "2025-02-03"
+    },
+    "A/Perth/7/2025_jan": {
+      "branch_length": 8.256503350152083e-05,
+      "clock_length": 8.256503350152083e-05,
+      "date": "2025-01-21",
+      "date_inferred": false,
+      "mutation_length": 0.0005718790199239543,
+      "numdate": 2025.0561643835617,
+      "raw_date": "2025-01-21"
+    },
+    "A/Perth/8/2025_jan": {
+      "branch_length": 0.0008729324901087294,
+      "clock_length": 0.0008729324901087294,
+      "date": "2025-01-21",
+      "date_inferred": false,
+      "mutation_length": 0.002290061046052326,
+      "numdate": 2025.0561643835617,
+      "raw_date": "2025-01-21"
+    },
+    "A/Philippines/27/2024_nov_o": {
+      "branch_length": 0.0018205369338175838,
+      "clock_length": 0.0018205369338175838,
+      "date": "2024-11-04",
+      "date_inferred": false,
+      "mutation_length": 0.001718158081398371,
+      "numdate": 2024.8428961748634,
+      "raw_date": "2024-11-04"
+    },
+    "A/Sydney/1/2024_F": {
+      "branch_length": 0.005062541638746926,
+      "clock_length": 0.005062541638746926,
+      "date": "2024-01-03",
+      "date_inferred": false,
+      "mutation_length": 0.007483747313753149,
+      "numdate": 2024.0068306010928,
+      "raw_date": "2024-01-03"
+    },
+    "A/Sydney/44/2025_feb": {
+      "branch_length": 0.0002355992525869872,
+      "clock_length": 0.0002355992525869872,
+      "date": "2025-02-14",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.1219178082192,
+      "raw_date": "2025-02-14"
+    },
+    "A/Sydney/47/2025_feb": {
+      "branch_length": 8.455617935487336e-05,
+      "clock_length": 8.455617935487336e-05,
+      "date": "2025-02-18",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.1328767123289,
+      "raw_date": "2025-02-18"
+    },
+    "A/Sydney/49/2025_feb": {
+      "branch_length": 0.0005614192679092746,
+      "clock_length": 0.0005614192679092746,
+      "date": "2025-02-15",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.1246575342466,
+      "raw_date": "2025-02-15"
+    },
+    "A/Sydney/5/2021_F": {
+      "branch_length": 0.00046784938992439594,
+      "clock_length": 0.00046784938992439594,
+      "date": "2021-10-15",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2021.7876712328766,
+      "raw_date": "2021-10-15"
+    },
+    "A/Sydney/5/2021e_F": {
+      "branch_length": 0.0004768630885551503,
+      "clock_length": 0.0004768630885551503,
+      "date": "2021-10-16",
+      "date_inferred": false,
+      "mutation_length": 0.0017138407198641313,
+      "numdate": 2021.7904109589042,
+      "raw_date": "2021-10-16"
+    },
+    "A/Sydney/52/2025_feb": {
+      "branch_length": 9.356987798487919e-05,
+      "clock_length": 9.356987798487919e-05,
+      "date": "2025-02-19",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.1356164383562,
+      "raw_date": "2025-02-19"
+    },
+    "A/Sydney/604/2023_F": {
+      "branch_length": 0.0028192250094388124,
+      "clock_length": 0.0028192250094388124,
+      "date": "2023-07-03",
+      "date_inferred": false,
+      "mutation_length": 0.003440701765905491,
+      "numdate": 2023.5027397260274,
+      "raw_date": "2023-07-03"
+    },
+    "A/Tasmania/25/2025_jan": {
+      "branch_length": 0.0008151478403754129,
+      "clock_length": 0.0008151478403754129,
+      "date": "2025-01-15",
+      "date_inferred": false,
+      "mutation_length": 0.0017183617188414502,
+      "numdate": 2025.0397260273974,
+      "raw_date": "2025-01-15"
+    },
+    "A/Tasmania/26/2025_jan": {
+      "branch_length": 0.00039882064191169484,
+      "clock_length": 0.00039882064191169484,
+      "date": "2025-01-15",
+      "date_inferred": false,
+      "mutation_length": 0.0005717858665400641,
+      "numdate": 2025.0397260273974,
+      "raw_date": "2025-01-15"
+    },
+    "A/Tasmania/30/2025_jan": {
+      "branch_length": 0.0009138522083424169,
+      "clock_length": 0.0009138522083424169,
+      "date": "2025-01-21",
+      "date_inferred": false,
+      "mutation_length": 0.0022882058424849253,
+      "numdate": 2025.0561643835617,
+      "raw_date": "2025-01-21"
+    },
+    "A/Tasmania/32/2025_jan": {
+      "branch_length": 0.0010878032826052192,
+      "clock_length": 0.0010878032826052192,
+      "date": "2025-01-24",
+      "date_inferred": false,
+      "mutation_length": 0.0022931294494971683,
+      "numdate": 2025.0643835616438,
+      "raw_date": "2025-01-24"
+    },
+    "A/Tasmania/33/2025_jan": {
+      "branch_length": 0.00010039377313465574,
+      "clock_length": 0.00010039377313465574,
+      "date": "2025-01-30",
+      "date_inferred": false,
+      "mutation_length": 0.0005713296004773525,
+      "numdate": 2025.0808219178082,
+      "raw_date": "2025-01-30"
+    },
+    "A/Tasmania/48/2025_feb": {
+      "branch_length": 9.356987798487908e-05,
+      "clock_length": 9.356987798487908e-05,
+      "date": "2025-02-21",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.141095890411,
+      "raw_date": "2025-02-21"
+    },
+    "A/Tasmania/49/2025_feb": {
+      "branch_length": 0.0011932768658763377,
+      "clock_length": 0.0011932768658763377,
+      "date": "2025-02-21",
+      "date_inferred": false,
+      "mutation_length": 0.0005715940526105424,
+      "numdate": 2025.141095890411,
+      "raw_date": "2025-02-21"
+    },
+    "A/Victoria/121/2025_feb": {
+      "branch_length": 0.0002197616588064566,
+      "clock_length": 0.0002197616588064566,
+      "date": "2025-02-06",
+      "date_inferred": false,
+      "mutation_length": 0.0005718902648387783,
+      "numdate": 2025.1,
+      "raw_date": "2025-02-06"
+    },
+    "A/Victoria/151/2025_jan": {
+      "branch_length": 0.0002996699569801347,
+      "clock_length": 0.0002996699569801347,
+      "date": "2025-01-04",
+      "date_inferred": false,
+      "mutation_length": 0.0017169921504081402,
+      "numdate": 2025.009589041096,
+      "raw_date": "2025-01-04"
+    },
+    "A/Victoria/152/2025_jan": {
+      "branch_length": 0.0014752132448725632,
+      "clock_length": 0.0014752132448725632,
+      "date": "2025-01-04",
+      "date_inferred": false,
+      "mutation_length": 0.002863984333324057,
+      "numdate": 2025.009589041096,
+      "raw_date": "2025-01-04"
+    },
+    "A/Victoria/155/2025_jan": {
+      "branch_length": 0.001538309135283352,
+      "clock_length": 0.001538309135283352,
+      "date": "2025-01-11",
+      "date_inferred": false,
+      "mutation_length": 0.0005717873850606527,
+      "numdate": 2025.0287671232877,
+      "raw_date": "2025-01-11"
+    },
+    "A/Victoria/156/2025_jan": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2025-01-11",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.0287671232877,
+      "raw_date": "2025-01-11"
+    },
+    "A/Victoria/158/2025_jan": {
+      "branch_length": 1.0455444459978188e-05,
+      "clock_length": 1.0455444459978188e-05,
+      "date": "2025-01-13",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.0342465753424,
+      "raw_date": "2025-01-13"
+    },
+    "A/Victoria/159/2025_jan": {
+      "branch_length": 0.0008061341417446591,
+      "clock_length": 0.0008061341417446591,
+      "date": "2025-01-14",
+      "date_inferred": false,
+      "mutation_length": 0.0017180454920500182,
+      "numdate": 2025.0369863013698,
+      "raw_date": "2025-01-14"
+    },
+    "A/Victoria/163/2025_jan": {
+      "branch_length": 0.003654570209216769,
+      "clock_length": 0.003654570209216769,
+      "date": "2025-01-16",
+      "date_inferred": false,
+      "mutation_length": 0.003441244713241785,
+      "numdate": 2025.0424657534247,
+      "raw_date": "2025-01-16"
+    },
+    "A/Victoria/190/2025_feb": {
+      "branch_length": 0.0009205524720837079,
+      "clock_length": 0.0009205524720837079,
+      "date": "2025-02-19",
+      "date_inferred": false,
+      "mutation_length": 0.0017164677736949338,
+      "numdate": 2025.1356164383562,
+      "raw_date": "2025-02-19"
+    },
+    "A/Victoria/213/2025_jan": {
+      "branch_length": 0.0008401792282314985,
+      "clock_length": 0.0008401792282314985,
+      "date": "2025-01-18",
+      "date_inferred": false,
+      "mutation_length": 0.002869367461860423,
+      "numdate": 2025.0479452054794,
+      "raw_date": "2025-01-18"
+    },
+    "A/Victoria/225/2025_jan": {
+      "branch_length": 0.0004686386804627496,
+      "clock_length": 0.0004686386804627496,
+      "date": "2025-01-23",
+      "date_inferred": false,
+      "mutation_length": 0.0005719465207783366,
+      "numdate": 2025.0616438356165,
+      "raw_date": "2025-01-23"
+    },
+    "A/Victoria/226/2025_jan": {
+      "branch_length": 9.356987798487908e-05,
+      "clock_length": 9.356987798487908e-05,
+      "date": "2025-01-23",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2025.0616438356165,
+      "raw_date": "2025-01-23"
+    },
+    "A/Victoria/235/2025_feb": {
+      "branch_length": 0.0027009784416735932,
+      "clock_length": 0.0027009784416735932,
+      "date": "2025-02-10",
+      "date_inferred": false,
+      "mutation_length": 0.003441107882729818,
+      "numdate": 2025.1109589041096,
+      "raw_date": "2025-02-10"
+    },
+    "A/Victoria/239/2025_feb_o": {
+      "branch_length": 0.0009746346638644909,
+      "clock_length": 0.0009746346638644909,
+      "date": "2025-02-25",
+      "date_inferred": false,
+      "mutation_length": 0.0011439418573059193,
+      "numdate": 2025.1520547945206,
+      "raw_date": "2025-02-25"
+    },
+    "A/Victoria/242/2025_feb": {
+      "branch_length": 0.0007322416806431244,
+      "clock_length": 0.0007322416806431244,
+      "date": "2025-02-21",
+      "date_inferred": false,
+      "mutation_length": 0.0005715454269279983,
+      "numdate": 2025.141095890411,
+      "raw_date": "2025-02-21"
+    },
+    "A/Victoria/250/2025_mar_o": {
+      "branch_length": 0.0020730039719629345,
+      "clock_length": 0.0020730039719629345,
+      "date": "2025-03-03",
+      "date_inferred": false,
+      "mutation_length": 0.00344133820827584,
+      "numdate": 2025.168493150685,
+      "raw_date": "2025-03-03"
+    },
+    "A/Victoria/252/2025_feb": {
+      "branch_length": 0.00110856622538259,
+      "clock_length": 0.00110856622538259,
+      "date": "2025-02-17",
+      "date_inferred": false,
+      "mutation_length": 0.0011441505849584528,
+      "numdate": 2025.1301369863013,
+      "raw_date": "2025-02-17"
+    },
+    "A/Victoria/256/2025_mar_o": {
+      "branch_length": 0.0012437717048349216,
+      "clock_length": 0.0012437717048349216,
+      "date": "2025-03-04",
+      "date_inferred": false,
+      "mutation_length": 0.0017170273750956638,
+      "numdate": 2025.1712328767123,
+      "raw_date": "2025-03-04"
+    },
+    "A/Victoria/3263/2024_S": {
+      "branch_length": 0.0011620295658794871,
+      "clock_length": 0.0011620295658794871,
+      "date": "2024-10-01",
+      "date_inferred": false,
+      "mutation_length": 0.0022910109402137693,
+      "numdate": 2024.75,
+      "raw_date": "2024-10-01"
+    },
+    "A/Victoria/3296/2024_sep_o": {
+      "branch_length": 0,
+      "clock_length": 0,
+      "date": "2024-09-19",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2024.717213114754,
+      "raw_date": "2024-09-19"
+    },
+    "A/Victoria/3370/2024_S": {
+      "branch_length": 0.003578942528442634,
+      "clock_length": 0.003578942528442634,
+      "date": "2024-11-04",
+      "date_inferred": false,
+      "mutation_length": 0.009214735583141133,
+      "numdate": 2024.8428961748634,
+      "raw_date": "2024-11-04"
+    },
+    "A/Victoria/376/2024_F": {
+      "branch_length": 0.00016654786277943857,
+      "clock_length": 0.00016654786277943857,
+      "date": "2024-05-04",
+      "date_inferred": false,
+      "mutation_length": 0.0005721553606444864,
+      "numdate": 2024.3401639344263,
+      "raw_date": "2024-05-04"
+    },
+    "A/Victoria/4897/2022_F_S": {
+      "branch_length": 0.00037106157095403644,
+      "clock_length": 0.00037106157095403644,
+      "date": "2022-10-02",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2022.7520547945205,
+      "raw_date": "2022-10-02"
+    },
+    "A/Victoria/4897/2022e_F": {
+      "branch_length": 0.00037106157095403644,
+      "clock_length": 0.00037106157095403644,
+      "date": "2022-10-02",
+      "date_inferred": false,
+      "mutation_length": 0.0005707044055857374,
+      "numdate": 2022.7520547945205,
+      "raw_date": "2022-10-02"
+    },
+    "A/Victoria/650/2023_F": {
+      "branch_length": 0.003862252835896444,
+      "clock_length": 0.003862252835896444,
+      "date": "2023-02-02",
+      "date_inferred": false,
+      "mutation_length": 0.005170726556422689,
+      "numdate": 2023.0890410958905,
+      "raw_date": "2023-02-02"
+    },
+    "A/Wisconsin/47/2022": {
+      "branch_length": 7.36095161593571e-05,
+      "clock_length": 7.36095161593571e-05,
+      "date": "2022-08-30",
+      "date_inferred": false,
+      "mutation_length": 0.000570808461797971,
+      "numdate": 2022.6616438356164,
+      "raw_date": "2022-08-30"
+    },
+    "A/Wisconsin/588/2019": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2019-12-19",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2019.9657534246576,
+      "raw_date": "2019-12-19"
+    },
+    "A/Wisconsin/67/2022": {
+      "branch_length": 0.0011416443036171946,
+      "clock_length": 0.0011416443036171946,
+      "date": "2022-10-25",
+      "date_inferred": false,
+      "mutation_length": 0.0028585772860524462,
+      "numdate": 2022.8150684931506,
+      "raw_date": "2022-10-25"
+    },
+    "NODE_0000000": {
+      "branch_length": 0.001,
+      "clock_length": 0.001,
+      "date": "2019-12-19",
+      "date_inferred": true,
+      "mutation_length": 0.001,
+      "numdate": 2019.9657534246576
+    },
+    "NODE_0000001": {
+      "branch_length": 0.004507123106192258,
+      "clock_length": 0.004507123106192258,
+      "date": "2021-05-03",
+      "date_inferred": true,
+      "mutation_length": 0.006318525214900228,
+      "numdate": 2021.3356996575428
+    },
+    "NODE_0000002": {
+      "branch_length": 0.0010191370929239912,
+      "clock_length": 0.0010191370929239912,
+      "date": "2021-08-24",
+      "date_inferred": true,
+      "mutation_length": 0.0017141534826720561,
+      "numdate": 2021.6454677708934
+    },
+    "NODE_0000004": {
+      "branch_length": 0.0001338116039839454,
+      "clock_length": 0.0001338116039839454,
+      "date": "2021-05-18",
+      "date_inferred": true,
+      "mutation_length": 0.0005709295103315003,
+      "numdate": 2021.3763718775988
+    },
+    "NODE_0000005": {
+      "branch_length": 0.0009423073973335843,
+      "clock_length": 0.0009423073973335843,
+      "date": "2021-08-30",
+      "date_inferred": true,
+      "mutation_length": 0.0011420333382603392,
+      "numdate": 2021.6627874998885
+    },
+    "NODE_0000006": {
+      "branch_length": 0.0008301214949500138,
+      "clock_length": 0.0008301214949500138,
+      "date": "2021-12-01",
+      "date_inferred": true,
+      "mutation_length": 0.0022870984456761717,
+      "numdate": 2021.9151040637032
+    },
+    "NODE_0000007": {
+      "branch_length": 0.0015686275912402607,
+      "clock_length": 0.0015686275912402607,
+      "date": "2022-05-24",
+      "date_inferred": true,
+      "mutation_length": 0.004005671588173632,
+      "numdate": 2022.3918905655999
+    },
+    "NODE_0000008": {
+      "branch_length": 0.00025061107802494195,
+      "clock_length": 0.00025061107802494195,
+      "date": "2022-06-20",
+      "date_inferred": true,
+      "mutation_length": 0.0005706163859030834,
+      "numdate": 2022.4680641455466
+    },
+    "NODE_0000009": {
+      "branch_length": 0.0007054430904185147,
+      "clock_length": 0.0007054430904185147,
+      "date": "2022-08-10",
+      "date_inferred": true,
+      "mutation_length": 0.0011417909699978043,
+      "numdate": 2022.6063109578242
+    },
+    "NODE_0000010": {
+      "branch_length": 0.00010843565177645793,
+      "clock_length": 0.00010843565177645793,
+      "date": "2022-08-22",
+      "date_inferred": true,
+      "mutation_length": 0.0005707139567181998,
+      "numdate": 2022.639270122498
+    },
+    "NODE_0000015": {
+      "branch_length": 0.0012638983199575928,
+      "clock_length": 0.0012638983199575928,
+      "date": "2023-01-09",
+      "date_inferred": true,
+      "mutation_length": 0.0017150122837811545,
+      "numdate": 2023.0234337455854
+    },
+    "NODE_0000016": {
+      "branch_length": 0.003606220109336298,
+      "clock_length": 0.003606220109336298,
+      "date": "2023-09-26",
+      "date_inferred": true,
+      "mutation_length": 0.0011421488704340035,
+      "numdate": 2023.7353856572506
+    },
+    "NODE_0000017": {
+      "branch_length": 0.0019200144971842838,
+      "clock_length": 0.0019200144971842838,
+      "date": "2024-04-26",
+      "date_inferred": true,
+      "mutation_length": 0.0017142986582002534,
+      "numdate": 2024.3189766898295
+    },
+    "NODE_0000018": {
+      "branch_length": 0.0013525076059214976,
+      "clock_length": 0.0013525076059214976,
+      "date": "2024-09-24",
+      "date_inferred": true,
+      "mutation_length": 0.0022884147644694564,
+      "numdate": 2024.7300732265837
+    },
+    "NODE_0000019": {
+      "branch_length": 0.006947281598679814,
+      "clock_length": 0.006947281598679814,
+      "date": "2024-09-19",
+      "date_inferred": true,
+      "mutation_length": 0.006298613142532431,
+      "numdate": 2024.717946702104
+    },
+    "NODE_0000020": {
+      "branch_length": 0.00024551584787402443,
+      "clock_length": 0.00024551584787402443,
+      "date": "2024-10-17",
+      "date_inferred": true,
+      "mutation_length": 0.0005699306879569843,
+      "numdate": 2024.7925715798772
+    },
+    "NODE_0000022": {
+      "branch_length": 0.0005311435219661272,
+      "clock_length": 0.0005311435219661272,
+      "date": "2024-12-15",
+      "date_inferred": true,
+      "mutation_length": 0.0005699380684826008,
+      "numdate": 2024.9540133798669
+    },
+    "NODE_0000024": {
+      "branch_length": 0.00025351176865461597,
+      "clock_length": 0.00025351176865461597,
+      "date": "2025-01-12",
+      "date_inferred": true,
+      "mutation_length": 0.0005700350933002492,
+      "numdate": 2025.031068628698
+    },
+    "NODE_0000025": {
+      "branch_length": 0.0004144033010130602,
+      "clock_length": 0.0004144033010130602,
+      "date": "2024-12-02",
+      "date_inferred": true,
+      "mutation_length": 0.0005702322489095584,
+      "numdate": 2024.918530030033
+    },
+    "NODE_0000027": {
+      "branch_length": 0.00037626109792726837,
+      "clock_length": 0.00037626109792726837,
+      "date": "2025-01-13",
+      "date_inferred": true,
+      "mutation_length": 0.001140403288583125,
+      "numdate": 2025.032895105391
+    },
+    "NODE_0000028": {
+      "branch_length": 0.0006386718026582454,
+      "clock_length": 0.0006386718026582454,
+      "date": "2025-02-11",
+      "date_inferred": true,
+      "mutation_length": 0.0017111481777214125,
+      "numdate": 2025.1126551980144
+    },
+    "NODE_0000031": {
+      "branch_length": 0.0004335465376453486,
+      "clock_length": 0.0004335465376453486,
+      "date": "2025-01-19",
+      "date_inferred": true,
+      "mutation_length": 0.0022818238823439406,
+      "numdate": 2025.0503070931472
+    },
+    "NODE_0000032": {
+      "branch_length": 0.00038754235893295047,
+      "clock_length": 0.00038754235893295047,
+      "date": "2021-10-12",
+      "date_inferred": true,
+      "mutation_length": 0.0005709731221415815,
+      "numdate": 2021.7805815299594
+    },
+    "NODE_0000033": {
+      "branch_length": 0.0028466754556250237,
+      "clock_length": 0.0028466754556250237,
+      "date": "2022-08-24",
+      "date_inferred": true,
+      "mutation_length": 0.0017132882633154852,
+      "numdate": 2022.6458324283255
+    },
+    "NODE_0000034": {
+      "branch_length": 0.000829845460283756,
+      "clock_length": 0.000829845460283756,
+      "date": "2022-11-24",
+      "date_inferred": true,
+      "mutation_length": 0.0005704409718708606,
+      "numdate": 2022.8980650910257
+    },
+    "NODE_0000035": {
+      "branch_length": 0.0023889971715099012,
+      "clock_length": 0.0023889971715099012,
+      "date": "2023-08-16",
+      "date_inferred": true,
+      "mutation_length": 0.00285676272741053,
+      "numdate": 2023.6242040489315
+    },
+    "NODE_0000037": {
+      "branch_length": 0.002374957422970427,
+      "clock_length": 0.002374957422970427,
+      "date": "2023-08-15",
+      "date_inferred": true,
+      "mutation_length": 0.0017132210541201199,
+      "numdate": 2023.6199366481596
+    },
+    "NODE_0000039": {
+      "branch_length": 0.000444594314412663,
+      "clock_length": 0.000444594314412663,
+      "date": "2023-10-03",
+      "date_inferred": true,
+      "mutation_length": 0.0005705222585258707,
+      "numdate": 2023.7550716981332
+    },
+    "NODE_0000041": {
+      "branch_length": 0.00027063694295501793,
+      "clock_length": 0.00027063694295501793,
+      "date": "2023-11-02",
+      "date_inferred": true,
+      "mutation_length": 0.0005705126597207229,
+      "numdate": 2023.8373321671165
+    },
+    "NODE_0000042": {
+      "branch_length": 0.0018406476043074558,
+      "clock_length": 0.0018406476043074558,
+      "date": "2024-05-25",
+      "date_inferred": true,
+      "mutation_length": 0.0034295450046749904,
+      "numdate": 2024.396799524049
+    },
+    "NODE_0000043": {
+      "branch_length": 0.0028948083177277057,
+      "clock_length": 0.0028948083177277057,
+      "date": "2024-09-19",
+      "date_inferred": true,
+      "mutation_length": 0.0022846160600032295,
+      "numdate": 2024.717213114754
+    },
+    "NODE_0000045": {
+      "branch_length": 0.0006645383911746106,
+      "clock_length": 0.0006645383911746106,
+      "date": "2024-12-02",
+      "date_inferred": true,
+      "mutation_length": 0.0005704248411136895,
+      "numdate": 2024.9192004676947
+    },
+    "NODE_0000046": {
+      "branch_length": 0.0010255505471051894,
+      "clock_length": 0.0010255505471051894,
+      "date": "2023-12-07",
+      "date_inferred": true,
+      "mutation_length": 0.001141601720364344,
+      "numdate": 2023.931654139681
+    },
+    "NODE_0000048": {
+      "branch_length": 0.001177449361932524,
+      "clock_length": 0.001177449361932524,
+      "date": "2024-04-15",
+      "date_inferred": true,
+      "mutation_length": 0.0005706259132288385,
+      "numdate": 2024.2895414837335
+    },
+    "NODE_0000050": {
+      "branch_length": 0.0008187470123075624,
+      "clock_length": 0.0008187470123075624,
+      "date": "2024-07-16",
+      "date_inferred": true,
+      "mutation_length": 0.0005706324269868845,
+      "numdate": 2024.538400757991
+    },
+    "NODE_0000051": {
+      "branch_length": 0.0006426801414122578,
+      "clock_length": 0.0006426801414122578,
+      "date": "2024-09-25",
+      "date_inferred": true,
+      "mutation_length": 0.0011426220160480618,
+      "numdate": 2024.7337442660191
+    },
+    "NODE_0000052": {
+      "branch_length": 0.0011789342332963137,
+      "clock_length": 0.0011789342332963137,
+      "date": "2024-04-16",
+      "date_inferred": true,
+      "mutation_length": 0.0028567735048288163,
+      "numdate": 2024.2899928124154
+    },
+    "NODE_0000055": {
+      "branch_length": 0.0026885318513602623,
+      "clock_length": 0.0026885318513602623,
+      "date": "2025-02-09",
+      "date_inferred": true,
+      "mutation_length": 0.004006758623516481,
+      "numdate": 2025.1071757459597
+    },
+    "NODE_0000056": {
+      "branch_length": 0.0003819408843726644,
+      "clock_length": 0.0003819408843726644,
+      "date": "2024-05-28",
+      "date_inferred": true,
+      "mutation_length": 0.0005701705676512751,
+      "numdate": 2024.406084266632
+    },
+    "NODE_0000058": {
+      "branch_length": 0.001269533552542372,
+      "clock_length": 0.001269533552542372,
+      "date": "2024-10-16",
+      "date_inferred": true,
+      "mutation_length": 0.0017149409797617473,
+      "numdate": 2024.7919607263714
+    },
+    "NODE_0000059": {
+      "branch_length": 0.0005103174631136618,
+      "clock_length": 0.0005103174631136618,
+      "date": "2024-07-24",
+      "date_inferred": true,
+      "mutation_length": 0.000570471358131358,
+      "numdate": 2024.561195957548
+    },
+    "NODE_0000061": {
+      "branch_length": 0.0005618559210959532,
+      "clock_length": 0.0005618559210959532,
+      "date": "2024-09-24",
+      "date_inferred": true,
+      "mutation_length": 0.0011406878835517774,
+      "numdate": 2024.7319728332611
+    },
+    "NODE_0000062": {
+      "branch_length": 0.0002013938381195124,
+      "clock_length": 0.0002013938381195124,
+      "date": "2024-10-17",
+      "date_inferred": true,
+      "mutation_length": 0.0005703978292281672,
+      "numdate": 2024.7931867658203
+    },
+    "NODE_0000064": {
+      "branch_length": 0.00020604115055964192,
+      "clock_length": 0.00020604115055964192,
+      "date": "2024-11-09",
+      "date_inferred": true,
+      "mutation_length": 0.000570170865110487,
+      "numdate": 2024.8558132553521
+    },
+    "NODE_0000067": {
+      "branch_length": 0.0001844415369831327,
+      "clock_length": 0.0001844415369831327,
+      "date": "2024-11-29",
+      "date_inferred": true,
+      "mutation_length": 0.0005701773369358245,
+      "numdate": 2024.9118745127937
+    },
+    "NODE_0000069": {
+      "branch_length": 0.0001669093920746835,
+      "clock_length": 0.0001669093920746835,
+      "date": "2024-11-27",
+      "date_inferred": true,
+      "mutation_length": 0.001711891200765984,
+      "numdate": 2024.9065455933687
+    },
+    "NODE_0000072": {
+      "branch_length": 5.127647322687658e-05,
+      "clock_length": 5.127647322687658e-05,
+      "date": "2024-12-03",
+      "date_inferred": true,
+      "mutation_length": 0.000570177272825638,
+      "numdate": 2024.922131147541
+    },
+    "NODE_0000075": {
+      "branch_length": 0.0006039702583176434,
+      "clock_length": 0.0006039702583176434,
+      "date": "2024-08-03",
+      "date_inferred": true,
+      "mutation_length": 0.0011406903059433067,
+      "numdate": 2024.5896618527468
+    },
+    "NODE_0000076": {
+      "branch_length": 0.0006618608362721952,
+      "clock_length": 0.0006618608362721952,
+      "date": "2024-10-16",
+      "date_inferred": true,
+      "mutation_length": 0.0005701545748407039,
+      "numdate": 2024.7908353592127
+    },
+    "NODE_0000077": {
+      "branch_length": 0.0002412194699815929,
+      "clock_length": 0.0002412194699815929,
+      "date": "2024-11-12",
+      "date_inferred": true,
+      "mutation_length": 0.000570154746574609,
+      "numdate": 2024.864154347049
+    },
+    "NODE_0000078": {
+      "branch_length": 0.0005561705394022691,
+      "clock_length": 0.0005561705394022691,
+      "date": "2025-01-13",
+      "date_inferred": true,
+      "mutation_length": 0.0011408794835587079,
+      "numdate": 2025.03320314322
+    },
+    "NODE_0000080": {
+      "branch_length": 0.0004200296564162516,
+      "clock_length": 0.0004200296564162516,
+      "date": "2024-12-02",
+      "date_inferred": true,
+      "mutation_length": 0.000570154746574609,
+      "numdate": 2024.9185039477888
+    },
+    "NODE_0000082": {
+      "branch_length": 0.0004239751851621196,
+      "clock_length": 0.0004239751851621196,
+      "date": "2024-09-19",
+      "date_inferred": true,
+      "mutation_length": 0.00057006692768893,
+      "numdate": 2024.718529690182
+    },
+    "NODE_0000083": {
+      "branch_length": 0.00019696593287638802,
+      "clock_length": 0.00019696593287638802,
+      "date": "2024-10-11",
+      "date_inferred": true,
+      "mutation_length": 0.0005700661598575848,
+      "numdate": 2024.7783977548863
+    },
+    "NODE_0000085": {
+      "branch_length": 8.229054985555834e-05,
+      "clock_length": 8.229054985555834e-05,
+      "date": "2024-10-21",
+      "date_inferred": true,
+      "mutation_length": 0.0005699778344973741,
+      "numdate": 2024.8034100800703
+    },
+    "NODE_0000086": {
+      "branch_length": 0.00024950606800993734,
+      "clock_length": 0.00024950606800993734,
+      "date": "2024-10-17",
+      "date_inferred": true,
+      "mutation_length": 0.0005699791636874993,
+      "numdate": 2024.7943674008234
+    },
+    "NODE_0000087": {
+      "branch_length": 0.0004074950240901486,
+      "clock_length": 0.0004074950240901486,
+      "date": "2024-12-02",
+      "date_inferred": true,
+      "mutation_length": 0.0005699855525215278,
+      "numdate": 2024.9182260707596
+    },
+    "NODE_0000088": {
+      "branch_length": 0.0003636800628171647,
+      "clock_length": 0.0003636800628171647,
+      "date": "2025-01-11",
+      "date_inferred": true,
+      "mutation_length": 0.0005700829094809663,
+      "numdate": 2025.0287671232877
+    },
+    "NODE_0000089": {
+      "branch_length": 0.0008004103974976653,
+      "clock_length": 0.0008004103974976653,
+      "date": "2025-01-14",
+      "date_inferred": true,
+      "mutation_length": 0.0034276292883306985,
+      "numdate": 2025.0376532359292
+    },
+    "cdcA/Alaska/14/2023": {
+      "branch_length": 0.0025739247132629097,
+      "clock_length": 0.0025739247132629097,
+      "date": "2023-06-03",
+      "date_inferred": true,
+      "mutation_length": 0.0034318996176838793,
+      "numdate": 2023.42161805966
+    },
+    "cdcA/Connecticut/17/2023": {
+      "branch_length": 0.0007811768981931229,
+      "clock_length": 0.0007811768981931229,
+      "date": "2023-11-11",
+      "date_inferred": false,
+      "mutation_length": 0.0005702568058445329,
+      "numdate": 2023.8616438356164,
+      "raw_date": "2023-11-11"
+    },
+    "cdcA/District_Of_Columbia/03/2024": {
+      "branch_length": 0.0009329933875409066,
+      "clock_length": 0.0009329933875409066,
+      "date": "2024-01-15",
+      "date_inferred": true,
+      "mutation_length": 0.0017138799311888068,
+      "numdate": 2024.038656314407
+    },
+    "cdcA/Illinois/18/2023": {
+      "branch_length": 0.0009110635144390838,
+      "clock_length": 0.0009110635144390838,
+      "date": "2023-04-20",
+      "date_inferred": true,
+      "mutation_length": 0.0011423993911461865,
+      "numdate": 2023.3003527469348
+    },
+    "cdcA/Michigan/59/2023": {
+      "branch_length": 0.0004977645919379175,
+      "clock_length": 0.0004977645919379175,
+      "date": "2023-10-09",
+      "date_inferred": false,
+      "mutation_length": 0.0005705285831267417,
+      "numdate": 2023.7712328767122,
+      "raw_date": "2023-10-09"
+    },
+    "cdcA/Michigan/62/2023": {
+      "branch_length": 0.0005468207338099789,
+      "clock_length": 0.0005468207338099789,
+      "date": "2023-10-16",
+      "date_inferred": false,
+      "mutation_length": 0.001712158853416764,
+      "numdate": 2023.7904109589042,
+      "raw_date": "2023-10-16"
+    },
+    "cdcA/Tennessee/86/2024": {
+      "branch_length": 0.00018241700803683556,
+      "clock_length": 0.00018241700803683556,
+      "date": "2024-10-14",
+      "date_inferred": false,
+      "mutation_length": 0.000571168714009661,
+      "numdate": 2024.785519125683,
+      "raw_date": "2024-10-14"
+    },
+    "cnicA/Henan-Shancheng/SWL1468/2024": {
+      "branch_length": 0.0003165906681544251,
+      "clock_length": 0.0003165906681544251,
+      "date": "2024-12-17",
+      "date_inferred": false,
+      "mutation_length": 0.001140867272628558,
+      "numdate": 2024.9603825136612,
+      "raw_date": "2024-12-17"
+    },
+    "crickA/Israel/R18527/2024": {
+      "branch_length": 0.000597340945858201,
+      "clock_length": 0.000597340945858201,
+      "date": "2024-12-26",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2024.9849726775956,
+      "raw_date": "2024-12-26"
+    },
+    "niidA/Tokyo/EIS10-980/2024": {
+      "branch_length": 0.0015708808981109135,
+      "clock_length": 0.0015708808981109135,
+      "date": "2024-10-18",
+      "date_inferred": false,
+      "mutation_length": 0.0011459359102653837,
+      "numdate": 2024.7964480874316,
+      "raw_date": "2024-10-18"
+    },
+    "othA/California/LACPHL-INF00606/2024": {
+      "branch_length": 0.003481906324257052,
+      "clock_length": 0.003481906324257052,
+      "date": "2024-10-17",
+      "date_inferred": false,
+      "mutation_length": 0.004593491596835479,
+      "numdate": 2024.7937158469945,
+      "raw_date": "2024-10-17"
+    },
+    "othA/French_Polynesia/HCL024201357901/2024": {
+      "branch_length": 0.0007487284834467084,
+      "clock_length": 0.0007487284834467084,
+      "date": "2024-12-16",
+      "date_inferred": false,
+      "mutation_length": 0.0005716453872257668,
+      "numdate": 2024.957650273224,
+      "raw_date": "2024-12-16"
+    },
+    "othA/Hong_Kong/2931/2024": {
+      "branch_length": 0.006246714452433813,
+      "clock_length": 0.006246714452433813,
+      "date": "2024-12-03",
+      "date_inferred": false,
+      "mutation_length": 0.008066782182319694,
+      "numdate": 2024.922131147541,
+      "raw_date": "2024-12-03"
+    },
+    "othA/Scotland/003_203/2024": {
+      "branch_length": 0.00012092018083127514,
+      "clock_length": 0.00012092018083127514,
+      "date": "2024-11-03",
+      "date_inferred": false,
+      "mutation_length": 0.0017115597404783512,
+      "numdate": 2024.8401639344263,
+      "raw_date": "2024-11-03"
+    },
+    "othA/Sling/5435/2024": {
+      "branch_length": 0.001719351970251215,
+      "clock_length": 0.001719351970251215,
+      "date": "2024-12-02",
+      "date_inferred": false,
+      "mutation_length": 0.002283738972339762,
+      "numdate": 2024.9193989071039,
+      "raw_date": "2024-12-02"
+    },
+    "othA/Vietnam/Binh_Dinh/RV1_240118/2024": {
+      "branch_length": 0.0007281147540987283,
+      "clock_length": 0.0007281147540987283,
+      "date": "2024-12-09",
+      "date_inferred": false,
+      "mutation_length": 0.0017181495080691863,
+      "numdate": 2024.938524590164,
+      "raw_date": "2024-12-09"
+    },
+    "tnicA/Bangkok/P3920/2024": {
+      "branch_length": 0.00015567281321278263,
+      "clock_length": 0.00015567281321278263,
+      "date": "2024-12-19",
+      "date_inferred": false,
+      "mutation_length": 5.627768146276027e-17,
+      "numdate": 2024.9658469945355,
+      "raw_date": "2024-12-19"
+    }
+  }
+}

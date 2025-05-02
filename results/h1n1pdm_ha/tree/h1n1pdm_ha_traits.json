@@ -1,0 +1,2394 @@
+{
+  "generated_by": {
+    "program": "augur",
+    "version": "29.0.0"
+  },
+  "models": {
+    "clade": {
+      "alphabet": [
+        "6B.1A.5a.2",
+        "6B.1A.5a.2a",
+        "6B.1A.5a.2a.1",
+        "?"
+      ],
+      "equilibrium_probabilities": [
+        0.33873651001580996,
+        0.34590727302927526,
+        0.3153562169549149
+      ],
+      "rate": 18.187290154210082,
+      "transition_matrix": [
+        [
+          0.0,
+          1.8052941417755173,
+          1.0751194473056886
+        ],
+        [
+          1.8052941417755173,
+          0.0,
+          1.5916539476192042
+        ],
+        [
+          1.0751194473056886,
+          1.5916539476192042,
+          0.0
+        ]
+      ]
+    },
+    "subclade": {
+      "alphabet": [
+        "C",
+        "C.1",
+        "C.1.1",
+        "C.1.6",
+        "C.1.7.1",
+        "C.1.8",
+        "C.1.9",
+        "C.1.9.1",
+        "C.1.9.2",
+        "C.1.9.3",
+        "C.1.9.4",
+        "D",
+        "D.1",
+        "D.3",
+        "D.5",
+        "?"
+      ],
+      "equilibrium_probabilities": [
+        0.06775361025091657,
+        0.06603274132512235,
+        0.06670112567362092,
+        0.06553620446931371,
+        0.06557912889707568,
+        0.06610614357312053,
+        0.06588870528843241,
+        0.06681749810453848,
+        0.06595758941176671,
+        0.06876936595118019,
+        0.06709197355464262,
+        0.0681554500667732,
+        0.06626313245630495,
+        0.06716979625988655,
+        0.06617753471730506
+      ],
+      "rate": 144.883899205195,
+      "transition_matrix": [
+        [
+          0.0,
+          1.7641859215473452,
+          0.9916759401766683,
+          0.991350238297815,
+          0.9912718297401765,
+          0.9913494762001365,
+          0.9932240063344732,
+          0.991271972475881,
+          0.991623403144036,
+          0.9890281626928054,
+          0.9915313634891932,
+          1.0005839173877304,
+          0.9916885960411507,
+          0.9905061563666574,
+          0.9908778675429449
+        ],
+        [
+          1.7641859215473452,
+          0.0,
+          1.4648884027735196,
+          1.4966797229589188,
+          1.4870932131669163,
+          1.4540099984490618,
+          1.4545900980675244,
+          0.9922007623936234,
+          0.9927123063966625,
+          0.9898805284382407,
+          0.9927538370942718,
+          1.316129351355265,
+          0.9925815842202396,
+          1.069832042551867,
+          0.9917033719849793
+        ],
+        [
+          0.9916759401766683,
+          1.4648884027735196,
+          0.0,
+          0.9908410755103702,
+          0.990749080623668,
+          0.9908719713668219,
+          0.9927166850343735,
+          0.9909870368131807,
+          0.9913327480297914,
+          0.9887669628632672,
+          0.9912448403843084,
+          1.5765974983733289,
+          0.9917897812111586,
+          1.1295027637700195,
+          0.9908818404865083
+        ],
+        [
+          0.991350238297815,
+          1.4966797229589188,
+          0.9908410755103702,
+          0.0,
+          0.9903523488327344,
+          0.9920065701335907,
+          0.9937921684782787,
+          0.9906612564698517,
+          0.9910034063586529,
+          0.9884708547946885,
+          0.9909169385194421,
+          0.9995091748741406,
+          0.9910638862836955,
+          0.9898539330319157,
+          0.9902727821951038
+        ],
+        [
+          0.9912718297401765,
+          1.4870932131669163,
+          0.990749080623668,
+          0.9903523488327344,
+          0.0,
+          0.9904304059447216,
+          0.992242324187833,
+          0.990591217304687,
+          0.9909328344394382,
+          0.9883957938252886,
+          0.9908448626470049,
+          0.9994319558932978,
+          0.9909986168250328,
+          0.9897846857390697,
+          0.9902070907910845
+        ],
+        [
+          0.9913494762001365,
+          1.4540099984490618,
+          0.9908719713668219,
+          0.9920065701335907,
+          0.9904304059447216,
+          0.0,
+          1.2468541631877896,
+          0.9908280415615706,
+          0.9912233649890775,
+          0.9885349987718203,
+          0.9911694474844933,
+          0.9995952987425915,
+          0.991076908297701,
+          0.9898597802540976,
+          0.9902822283582152
+        ],
+        [
+          0.9932240063344732,
+          1.4545900980675244,
+          0.9927166850343735,
+          0.9937921684782787,
+          0.992242324187833,
+          1.2468541631877896,
+          0.0,
+          1.2934194236927146,
+          1.4014175002045317,
+          1.4854517407321475,
+          1.4202872272030962,
+          1.001507241952086,
+          0.9929075044685678,
+          0.9917119337792042,
+          0.9921083410087641
+        ],
+        [
+          0.991271972475881,
+          0.9922007623936234,
+          0.9909870368131807,
+          0.9906612564698517,
+          0.990591217304687,
+          0.9908280415615706,
+          1.2934194236927146,
+          0.0,
+          1.0969796408267019,
+          0.9887860253698467,
+          1.3930150360056965,
+          0.999815163889462,
+          0.9913222786609137,
+          0.9900452807476723,
+          0.9905198279147893
+        ],
+        [
+          0.991623403144036,
+          0.9927123063966625,
+          0.9913327480297914,
+          0.9910034063586529,
+          0.9909328344394382,
+          0.9912233649890775,
+          1.4014175002045317,
+          1.0969796408267019,
+          0.0,
+          0.9891414950660529,
+          1.1509180619313912,
+          1.0000651638656362,
+          0.9916618861882792,
+          0.990403469226088,
+          0.9908658430952202
+        ],
+        [
+          0.9890281626928054,
+          0.9898805284382407,
+          0.9887669628632672,
+          0.9884708547946885,
+          0.9883957938252886,
+          0.9885349987718203,
+          1.4854517407321475,
+          0.9887860253698467,
+          0.9891414950660529,
+          0.0,
+          0.9890668451244986,
+          0.9977679385867265,
+          0.9891253292828862,
+          0.9877854344790502,
+          0.9883038716398264
+        ],
+        [
+          0.9915313634891932,
+          0.9927538370942718,
+          0.9912448403843084,
+          0.9909169385194421,
+          0.9908448626470049,
+          0.9911694474844933,
+          1.4202872272030962,
+          1.3930150360056965,
+          1.1509180619313912,
+          0.9890668451244986,
+          0.0,
+          1.0001178404728017,
+          0.9915789265198027,
+          0.9903009601020656,
+          0.9907750747890117
+        ],
+        [
+          1.0005839173877304,
+          1.316129351355265,
+          1.5765974983733289,
+          0.9995091748741406,
+          0.9994319558932978,
+          0.9995952987425915,
+          1.001507241952086,
+          0.999815163889462,
+          1.0000651638656362,
+          0.9977679385867265,
+          1.0001178404728017,
+          0.0,
+          1.551384340924576,
+          1.3858396443221506,
+          1.5554160351078394
+        ],
+        [
+          0.9916885960411507,
+          0.9925815842202396,
+          0.9917897812111586,
+          0.9910638862836955,
+          0.9909986168250328,
+          0.991076908297701,
+          0.9929075044685678,
+          0.9913222786609137,
+          0.9916618861882792,
+          0.9891253292828862,
+          0.9915789265198027,
+          1.551384340924576,
+          0.0,
+          0.9906558814037617,
+          0.9911127146826707
+        ],
+        [
+          0.9905061563666574,
+          1.069832042551867,
+          1.1295027637700195,
+          0.9898539330319157,
+          0.9897846857390697,
+          0.9898597802540976,
+          0.9917119337792042,
+          0.9900452807476723,
+          0.990403469226088,
+          0.9877854344790502,
+          0.9903009601020656,
+          1.3858396443221506,
+          0.9906558814037617,
+          0.0,
+          0.9897386357710024
+        ],
+        [
+          0.9908778675429449,
+          0.9917033719849793,
+          0.9908818404865083,
+          0.9902727821951038,
+          0.9902070907910845,
+          0.9902822283582152,
+          0.9921083410087641,
+          0.9905198279147893,
+          0.9908658430952202,
+          0.9883038716398264,
+          0.9907750747890117,
+          1.5554160351078394,
+          0.9911127146826707,
+          0.9897386357710024,
+          0.0
+        ]
+      ]
+    }
+  },
+  "nodes": {
+    "A/Brisbane/17/2025_feb": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Canberra/108/2025_feb_o": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Canberra/2/2025_jan": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Canberra/42/2025_jan_e": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999999999999999
+      },
+      "subclade_entropy": -9.99866855976916e-13
+    },
+    "A/Canberra/45/2025_jan_e": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999999999999999
+      },
+      "subclade_entropy": -9.99866855976916e-13
+    },
+    "A/Canberra/53/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Canberra/7/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Canberra/89/2025_feb_o": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Canberra/93/2025_feb": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Canberra/95/2025_feb_o": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999999999999999
+      },
+      "subclade_entropy": -9.99866855976916e-13
+    },
+    "A/Darwin/131/2025_feb": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Darwin/139/2025_feb": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Darwin/1906/2024_S": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Darwin/204A/2025_feb": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Darwin/230/2025_feb": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Darwin/247/2025_mar": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Darwin/274/2025_mar_o": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Darwin/278/2025_mar_o": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Darwin/289a/2025_mar_o": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Darwin/328/2024_F": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.8",
+      "subclade_confidence": {
+        "C.1.8": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Darwin/463/2023_F": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.7.1",
+      "subclade_confidence": {
+        "C.1.7.1": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Darwin/7/2023_F": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.6",
+      "subclade_confidence": {
+        "C.1.6": 0.9999999999999999
+      },
+      "subclade_entropy": -9.99866855976916e-13
+    },
+    "A/India/Pun-NIV319324/2021": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1",
+      "subclade_confidence": {
+        "C.1": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Nepal/N1428/2024_aug": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/New_Caledonia/50/2024_dec": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/New_Caledonia/50/2024_dec_o": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/New_Caledonia/54/2024_dec": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/New_Caledonia/54/2024_dec_o": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/New_Caledonia/60/2024_dec": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/New_Caledonia/61/2024_dec_o": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/New_Caledonia/64/2024_dec": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Perth/13/2025_feb": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.1",
+      "subclade_confidence": {
+        "C.1.9.1": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Perth/7/2025_jan": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Perth/8/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Philippines/27/2024_nov_o": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Sydney/1/2024_F": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.1",
+      "subclade_confidence": {
+        "C.1.1": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Sydney/44/2025_feb": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Sydney/47/2025_feb": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Sydney/49/2025_feb": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Sydney/5/2021_F": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1",
+      "subclade_confidence": {
+        "C.1": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Sydney/5/2021e_F": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1",
+      "subclade_confidence": {
+        "C.1": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Sydney/52/2025_feb": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Sydney/604/2023_F": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1",
+      "subclade_confidence": {
+        "C.1": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Tasmania/25/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999999999999999
+      },
+      "subclade_entropy": -9.99866855976916e-13
+    },
+    "A/Tasmania/26/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999999999999999
+      },
+      "subclade_entropy": -9.99866855976916e-13
+    },
+    "A/Tasmania/30/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Tasmania/32/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Tasmania/33/2025_jan": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Tasmania/48/2025_feb": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Tasmania/49/2025_feb": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/121/2025_feb": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999999999999999
+      },
+      "subclade_entropy": -9.99866855976916e-13
+    },
+    "A/Victoria/151/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999999999999999
+      },
+      "subclade_entropy": -9.99866855976916e-13
+    },
+    "A/Victoria/152/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/155/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/156/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/158/2025_jan": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/159/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999999999999999
+      },
+      "subclade_entropy": -9.99866855976916e-13
+    },
+    "A/Victoria/163/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/190/2025_feb": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/213/2025_jan": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/225/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.1",
+      "subclade_confidence": {
+        "C.1.9.1": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/226/2025_jan": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999999999999999
+      },
+      "subclade_entropy": -9.99866855976916e-13
+    },
+    "A/Victoria/235/2025_feb": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/239/2025_feb_o": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/242/2025_feb": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/250/2025_mar_o": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/252/2025_feb": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/256/2025_mar_o": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/3263/2024_S": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.4",
+      "subclade_confidence": {
+        "C.1.9.4": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/3296/2024_sep_o": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.1",
+      "subclade_confidence": {
+        "C.1.9.1": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/3370/2024_S": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.2",
+      "subclade_confidence": {
+        "C.1.9.2": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/376/2024_F": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/4897/2022_F_S": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D",
+      "subclade_confidence": {
+        "D": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/4897/2022e_F": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D",
+      "subclade_confidence": {
+        "D": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Victoria/650/2023_F": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1",
+      "subclade_confidence": {
+        "C.1": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Wisconsin/47/2022": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D",
+      "subclade_confidence": {
+        "D": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Wisconsin/588/2019": {
+      "clade": "6B.1A.5a.2",
+      "clade_confidence": {
+        "6B.1A.5a.2": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C",
+      "subclade_confidence": {
+        "C": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "A/Wisconsin/67/2022": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.1",
+      "subclade_confidence": {
+        "C.1.1": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "NODE_0000000": {
+      "clade": "6B.1A.5a.2",
+      "clade_confidence": {
+        "6B.1A.5a.2": 0.8174229074597228,
+        "6B.1A.5a.2a": 0.1780652787926017,
+        "6B.1A.5a.2a.1": 0.004511813747675527
+      },
+      "clade_entropy": 0.49643028718201715,
+      "subclade": "C",
+      "subclade_confidence": {
+        "C": 0.783295671067185,
+        "C.1": 0.13738266518214487,
+        "C.1.1": 0.007014351257000122,
+        "C.1.6": 0.007010124724728711,
+        "C.1.7.1": 0.006979981464758908,
+        "C.1.8": 0.006919808775016428,
+        "C.1.9": 0.006852906902873869,
+        "C.1.9.1": 0.0053646507950472,
+        "C.1.9.2": 0.005302911965541138,
+        "C.1.9.3": 0.005507705479424092,
+        "C.1.9.4": 0.005394409950640076,
+        "D": 0.006665496217216658,
+        "D.1": 0.005327284895685978,
+        "D.3": 0.005668818857129145,
+        "D.5": 0.0053132124656077705
+      },
+      "subclade_entropy": 0.8678887624556201
+    },
+    "NODE_0000001": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2": 0.0021297062613181905,
+        "6B.1A.5a.2a": 0.9978096073482176
+      },
+      "clade_entropy": 0.015878709832263915,
+      "subclade": "C.1",
+      "subclade_confidence": {
+        "C": 0.003104893081286996,
+        "C.1": 0.9952301713580317
+      },
+      "subclade_entropy": 0.03748692985223017
+    },
+    "NODE_0000002": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999977449764892
+      },
+      "clade_entropy": 3.2057795301999985e-05,
+      "subclade": "C.1",
+      "subclade_confidence": {
+        "C.1": 0.9998606590182729
+      },
+      "subclade_entropy": 0.0016234666095636665
+    },
+    "NODE_0000004": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999658094909909
+      },
+      "clade_entropy": 0.00040255693407947413,
+      "subclade": "C.1",
+      "subclade_confidence": {
+        "C.1": 0.9995104502338874
+      },
+      "subclade_entropy": 0.005234143209783619
+    },
+    "NODE_0000005": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9997050663832532
+      },
+      "clade_entropy": 0.0027360847077790382,
+      "subclade": "C.1",
+      "subclade_confidence": {
+        "C.1": 0.9898856265112864,
+        "C.1.1": 0.0031571239740618615,
+        "C.1.6": 0.0025670265144179063,
+        "D": 0.0014214980990468664
+      },
+      "subclade_entropy": 0.07625474784448057
+    },
+    "NODE_0000006": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9749444388484415,
+        "6B.1A.5a.2a.1": 0.0247206180597205
+      },
+      "clade_entropy": 0.11888827459230888,
+      "subclade": "C.1",
+      "subclade_confidence": {
+        "C": 0.0012293967615517414,
+        "C.1": 0.9543816570268037,
+        "C.1.1": 0.02406601143511282,
+        "C.1.6": 0.002147258925229681,
+        "C.1.8": 0.0011681420884777944,
+        "C.1.9": 0.0011146386469392438,
+        "D": 0.01094973295526023,
+        "D.3": 0.001170152974068608
+      },
+      "subclade_entropy": 0.25676787634623616
+    },
+    "NODE_0000007": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.006290529308459357,
+        "6B.1A.5a.2a.1": 0.9936586471702721
+      },
+      "clade_entropy": 0.03870857285204485,
+      "subclade": "C.1.1",
+      "subclade_confidence": {
+        "C": 0.004265379175043578,
+        "C.1": 0.24752572630155684,
+        "C.1.1": 0.47071047890822987,
+        "C.1.6": 0.003778137313553522,
+        "C.1.7.1": 0.0034973566242752162,
+        "C.1.8": 0.0035203509760409076,
+        "C.1.9": 0.003497401240099664,
+        "C.1.9.1": 0.0024657753416863887,
+        "C.1.9.2": 0.0024380465411762663,
+        "C.1.9.3": 0.0025234817978167434,
+        "C.1.9.4": 0.002480113653436143,
+        "D": 0.22864933894046405,
+        "D.1": 0.0035510609663471607,
+        "D.3": 0.017549465449755705,
+        "D.5": 0.003547886770518035
+      },
+      "subclade_entropy": 1.3119238671304096
+    },
+    "NODE_0000008": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9996731585978004
+      },
+      "clade_entropy": 0.002975962878116771,
+      "subclade": "C.1.1",
+      "subclade_confidence": {
+        "C.1": 0.02306320820421327,
+        "C.1.1": 0.9460928014785358,
+        "D": 0.02281779378150849,
+        "D.3": 0.0018227016688866359
+      },
+      "subclade_entropy": 0.2834655104763926
+    },
+    "NODE_0000009": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9996092830546283
+      },
+      "clade_entropy": 0.0034881293489626955,
+      "subclade": "D",
+      "subclade_confidence": {
+        "C": 0.004598132151002873,
+        "C.1": 0.1053486061927506,
+        "C.1.1": 0.20839727866656524,
+        "C.1.6": 0.004110251618479233,
+        "C.1.7.1": 0.003991991654231228,
+        "C.1.8": 0.003998591794252178,
+        "C.1.9": 0.003982097756356977,
+        "C.1.9.1": 0.003263098323609052,
+        "C.1.9.2": 0.003225221572971662,
+        "C.1.9.3": 0.0033408212299373217,
+        "C.1.9.4": 0.0032807225201942135,
+        "D": 0.5956518352983456,
+        "D.1": 0.004912283563507568,
+        "D.3": 0.04698814877519298,
+        "D.5": 0.004910918882603247
+      },
+      "subclade_entropy": 1.2568885039371724
+    },
+    "NODE_0000010": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999999999047233
+      },
+      "clade_entropy": 2.3013990146215473e-09,
+      "subclade": "D",
+      "subclade_confidence": {
+        "D": 0.9999780223753739
+      },
+      "subclade_entropy": 0.00029428596238040804
+    },
+    "NODE_0000015": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9989282795964253
+      },
+      "clade_entropy": 0.009070470887174734,
+      "subclade": "D",
+      "subclade_confidence": {
+        "C": 0.007956762393700956,
+        "C.1": 0.009941798227681755,
+        "C.1.1": 0.011924822750773681,
+        "C.1.6": 0.007682264609628687,
+        "C.1.7.1": 0.0076863148718442536,
+        "C.1.8": 0.007749228024300303,
+        "C.1.9": 0.007744995802032722,
+        "C.1.9.1": 0.007828894915536382,
+        "C.1.9.2": 0.007731518695242661,
+        "C.1.9.3": 0.008031758388651508,
+        "C.1.9.4": 0.007864458298805527,
+        "D": 0.7574686367209241,
+        "D.1": 0.12807482379363175,
+        "D.3": 0.010634008350899072,
+        "D.5": 0.011679714156346697
+      },
+      "subclade_entropy": 1.0135767411755419
+    },
+    "NODE_0000016": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999727767396437
+      },
+      "clade_entropy": 0.0003284081947322429,
+      "subclade": "D",
+      "subclade_confidence": {
+        "C": 0.0012938116995288844,
+        "C.1": 0.0018773533700117027,
+        "C.1.1": 0.0025546565902739675,
+        "C.1.6": 0.0012462416234223616,
+        "C.1.7.1": 0.001246747735762757,
+        "C.1.8": 0.0012568545566330358,
+        "C.1.9": 0.0012580879175078563,
+        "C.1.9.1": 0.0012665355748507098,
+        "C.1.9.2": 0.0012511069106193487,
+        "C.1.9.3": 0.0012969432686259573,
+        "C.1.9.4": 0.001272613987453611,
+        "D": 0.8620996928622938,
+        "D.1": 0.0024789777892288193,
+        "D.3": 0.002097943478891245,
+        "D.5": 0.11750243263489617
+      },
+      "subclade_entropy": 0.5103672948212599
+    },
+    "NODE_0000017": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999952129169115
+      },
+      "clade_entropy": 6.60301777702728e-05,
+      "subclade": "D.5",
+      "subclade_confidence": {
+        "D": 0.014181535605644365,
+        "D.5": 0.983533593104811
+      },
+      "subclade_entropy": 0.09640660199063888
+    },
+    "NODE_0000018": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999984844040877
+      },
+      "clade_entropy": 2.2649147945937815e-05,
+      "subclade": "D.5",
+      "subclade_confidence": {
+        "D.5": 0.9997872273714317
+      },
+      "subclade_entropy": 0.002265312461469995
+    },
+    "NODE_0000019": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999882423672748
+      },
+      "clade_entropy": 0.00015155162989916195,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D": 0.0013042701483176608,
+        "D.3": 0.9963621142930165
+      },
+      "subclade_entropy": 0.032141881665012195
+    },
+    "NODE_0000020": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999999898542662
+      },
+      "clade_entropy": 2.0148848081245887e-07,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 0.999999225198626
+      },
+      "subclade_entropy": 1.336549663433466e-05
+    },
+    "NODE_0000022": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999999906393295
+      },
+      "clade_entropy": 1.8670776200629924e-07,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 0.9999998005567972
+      },
+      "subclade_entropy": 3.782318057789803e-06
+    },
+    "NODE_0000024": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999989027397982
+      },
+      "clade_entropy": 1.6752947788611495e-05,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 0.9999822692681076
+      },
+      "subclade_entropy": 0.00025759509595227835
+    },
+    "NODE_0000025": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999999999992769
+      },
+      "clade_entropy": 1.936683367630929e-11,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 0.9999999999735311
+      },
+      "subclade_entropy": 7.218535339581157e-10
+    },
+    "NODE_0000027": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999989028203015
+      },
+      "clade_entropy": 1.6751809334891358e-05,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 0.9999822717652652
+      },
+      "subclade_entropy": 0.00025756150252969403
+    },
+    "NODE_0000028": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999989028203015
+      },
+      "clade_entropy": 1.6751809334891358e-05,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 0.9999822717652652
+      },
+      "subclade_entropy": 0.00025756150252969403
+    },
+    "NODE_0000031": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 0.9999989028203015
+      },
+      "clade_entropy": 1.6751809334891358e-05,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 0.9999822717652652
+      },
+      "subclade_entropy": 0.00025756150252969403
+    },
+    "NODE_0000032": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999365997187976
+      },
+      "clade_entropy": 0.000715474159151405,
+      "subclade": "C.1",
+      "subclade_confidence": {
+        "C": 0.002085368101738101,
+        "C.1": 0.9377958831347458,
+        "C.1.1": 0.003411188789717611,
+        "C.1.6": 0.02919125443366576,
+        "C.1.7.1": 0.0015453093829429067,
+        "C.1.8": 0.00883243840192909,
+        "C.1.9": 0.008076247167155206,
+        "C.1.9.3": 0.0010459738112601061,
+        "C.1.9.4": 0.001017778875080454,
+        "D": 0.0021446922616723454,
+        "D.3": 0.0010585718347987125
+      },
+      "subclade_entropy": 0.3473634790301905
+    },
+    "NODE_0000033": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999786338701963
+      },
+      "clade_entropy": 0.00026550170303010583,
+      "subclade": "C.1",
+      "subclade_confidence": {
+        "C": 0.002751651123372406,
+        "C.1": 0.8876412988975546,
+        "C.1.1": 0.0024425570567305774,
+        "C.1.6": 0.008441978536568669,
+        "C.1.7.1": 0.002033667799445704,
+        "C.1.8": 0.04402558984103692,
+        "C.1.9": 0.041284348377197175,
+        "C.1.9.1": 0.001379286852937904,
+        "C.1.9.2": 0.0014483580984425144,
+        "C.1.9.3": 0.001524554128918883,
+        "C.1.9.4": 0.0014945104388443225,
+        "D": 0.0019397159595796283,
+        "D.1": 0.001148896580416671,
+        "D.3": 0.0012988891972410778,
+        "D.5": 0.001144697111713123
+      },
+      "subclade_entropy": 0.5331365828877049
+    },
+    "NODE_0000034": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999850476050042
+      },
+      "clade_entropy": 0.00019108201585612606,
+      "subclade": "C.1",
+      "subclade_confidence": {
+        "C": 0.006344614375212243,
+        "C.1": 0.4951561137854789,
+        "C.1.1": 0.005334333815230929,
+        "C.1.6": 0.008247380491981331,
+        "C.1.7.1": 0.005124133597007994,
+        "C.1.8": 0.22724580668589203,
+        "C.1.9": 0.2175734616153632,
+        "C.1.9.1": 0.004505168321906982,
+        "C.1.9.2": 0.004834879073220032,
+        "C.1.9.3": 0.005038933040931673,
+        "C.1.9.4": 0.005026075390023771,
+        "D": 0.004843776940066938,
+        "D.1": 0.0034770050317108592,
+        "D.3": 0.0037835078688479534,
+        "D.5": 0.0034648099671251804
+      },
+      "subclade_entropy": 1.3328279413523718
+    },
+    "NODE_0000035": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999998591905278
+      },
+      "clade_entropy": 2.4543594962292963e-06,
+      "subclade": "C.1.8",
+      "subclade_confidence": {
+        "C.1.8": 0.9998471764687542
+      },
+      "subclade_entropy": 0.0017064892621623464
+    },
+    "NODE_0000037": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999329275753
+      },
+      "clade_entropy": 1.2187778350375285e-06,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1": 0.0018080247712957767,
+        "C.1.9": 0.9928464849553876,
+        "C.1.9.2": 0.0013557770684395184,
+        "C.1.9.4": 0.0017097247964415357
+      },
+      "subclade_entropy": 0.05604280205020122
+    },
+    "NODE_0000039": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999908579073872
+      },
+      "clade_entropy": 0.00012132758602211765,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C": 0.003383753446264777,
+        "C.1": 0.005538943117451226,
+        "C.1.1": 0.0033195048937234473,
+        "C.1.6": 0.0032668161977833926,
+        "C.1.7.1": 0.0032595390533069674,
+        "C.1.8": 0.0044276819939696385,
+        "C.1.9": 0.5995729910533444,
+        "C.1.9.1": 0.08452755907506357,
+        "C.1.9.2": 0.12163432244493295,
+        "C.1.9.3": 0.004975129471872724,
+        "C.1.9.4": 0.15274007583444496,
+        "D": 0.0034718402260572154,
+        "D.1": 0.0032862244637305456,
+        "D.3": 0.003321290676170346,
+        "D.5": 0.0032743280518838284
+      },
+      "subclade_entropy": 1.2896624700351451
+    },
+    "NODE_0000041": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999864796853674
+      },
+      "clade_entropy": 0.00017414334931871808,
+      "subclade": "C.1.9.4",
+      "subclade_confidence": {
+        "C": 0.00418550988535852,
+        "C.1": 0.005844971936750753,
+        "C.1.1": 0.004109171090860767,
+        "C.1.6": 0.004039844893757034,
+        "C.1.7.1": 0.00403507877426062,
+        "C.1.8": 0.005020813082313444,
+        "C.1.9": 0.3085815184732518,
+        "C.1.9.1": 0.20860566027908958,
+        "C.1.9.2": 0.0617417013526725,
+        "C.1.9.3": 0.005800412513042483,
+        "C.1.9.4": 0.371490637753572,
+        "D": 0.004297455245671273,
+        "D.1": 0.004072948135879282,
+        "D.3": 0.004115871033969744,
+        "D.5": 0.004058405549550228
+      },
+      "subclade_entropy": 1.496879132756874
+    },
+    "NODE_0000042": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999910103068147
+      },
+      "clade_entropy": 0.00011945930008546612,
+      "subclade": "C.1.9.4",
+      "subclade_confidence": {
+        "C.1.9": 0.004791802753006447,
+        "C.1.9.1": 0.0033474782965707255,
+        "C.1.9.4": 0.9891060350862794
+      },
+      "subclade_entropy": 0.07784663648810758
+    },
+    "NODE_0000043": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999229251543
+      },
+      "clade_entropy": 1.3898703951505253e-06,
+      "subclade": "C.1.9.1",
+      "subclade_confidence": {
+        "C.1.9.1": 0.9999444133261755
+      },
+      "subclade_entropy": 0.0006901408918986913
+    },
+    "NODE_0000045": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.999997616668812
+      },
+      "clade_entropy": 3.483476971364091e-05,
+      "subclade": "C.1.9.1",
+      "subclade_confidence": {
+        "C.1.9.1": 0.999980692164631
+      },
+      "subclade_entropy": 0.00027829339679600885
+    },
+    "NODE_0000046": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999998632706126
+      },
+      "clade_entropy": 2.3872965859538656e-06,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 0.9999886596966346
+      },
+      "subclade_entropy": 0.0001641629325823244
+    },
+    "NODE_0000048": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999428560156
+      },
+      "clade_entropy": 1.0475446999403707e-06,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 0.9999992049561046
+      },
+      "subclade_entropy": 1.390617262652024e-05
+    },
+    "NODE_0000050": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999949732750022
+      },
+      "clade_entropy": 6.971938381679607e-05,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 0.9999410150734492
+      },
+      "subclade_entropy": 0.0007825977200284369
+    },
+    "NODE_0000051": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999971860835604
+      },
+      "clade_entropy": 4.0660183413125264e-05,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 0.9999687535263422
+      },
+      "subclade_entropy": 0.0004342464779367513
+    },
+    "NODE_0000052": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.999999996987686
+      },
+      "clade_entropy": 6.403192362280654e-08,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 0.9999521683084632
+      },
+      "subclade_entropy": 0.0005402086356828525
+    },
+    "NODE_0000055": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999935468053964
+      },
+      "clade_entropy": 8.789375787369081e-05,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 0.9999212082619143
+      },
+      "subclade_entropy": 0.0010227806263676778
+    },
+    "NODE_0000056": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999663803567
+      },
+      "clade_entropy": 6.341339708579403e-07,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9996780291321266
+      },
+      "subclade_entropy": 0.003010698912902531
+    },
+    "NODE_0000058": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999969713946911
+      },
+      "clade_entropy": 4.354057972744486e-05,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999724530213667
+      },
+      "subclade_entropy": 0.00038347081693433877
+    },
+    "NODE_0000059": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.999999940078058
+      },
+      "clade_entropy": 1.095634277696832e-06,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999993024675907
+      },
+      "subclade_entropy": 1.2079348247521124e-05
+    },
+    "NODE_0000061": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999970247578543
+      },
+      "clade_entropy": 4.2826261600749716e-05,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999769050880166
+      },
+      "subclade_entropy": 0.00032885110938542955
+    },
+    "NODE_0000062": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999637046132
+      },
+      "clade_entropy": 6.818289856166633e-07,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999997007016493
+      },
+      "subclade_entropy": 5.536787397823137e-06
+    },
+    "NODE_0000064": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999968625
+      },
+      "clade_entropy": 8.566779983491917e-11,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999999999696114
+      },
+      "subclade_entropy": 8.201851079403952e-10
+    },
+    "NODE_0000067": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.999997617508666
+      },
+      "clade_entropy": 3.48233548836154e-05,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.999981771061701
+      },
+      "subclade_entropy": 0.0002638590063963545
+    },
+    "NODE_0000069": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999997168717
+      },
+      "clade_entropy": 6.684929656930314e-09,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999999975363988
+      },
+      "subclade_entropy": 5.705401640505202e-08
+    },
+    "NODE_0000072": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999997168717
+      },
+      "clade_entropy": 6.6849295645539516e-09,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.999999997536399
+      },
+      "subclade_entropy": 5.70540147087817e-08
+    },
+    "NODE_0000075": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.999997590391641
+      },
+      "clade_entropy": 3.519208425251633e-05,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999763868427883
+      },
+      "subclade_entropy": 0.0003299952138753377
+    },
+    "NODE_0000076": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999734901323
+      },
+      "clade_entropy": 5.063249648722483e-07,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999997840883339
+      },
+      "subclade_entropy": 4.062701082742678e-06
+    },
+    "NODE_0000077": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.999997591057406
+      },
+      "clade_entropy": 3.518304306989684e-05,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999815334326284
+      },
+      "subclade_entropy": 0.00026704615344287375
+    },
+    "NODE_0000078": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999975913462757
+      },
+      "clade_entropy": 3.5179120144376066e-05,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999815362373388
+      },
+      "subclade_entropy": 0.00026700878407253964
+    },
+    "NODE_0000080": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999740710405
+      },
+      "clade_entropy": 4.958133001764858e-07,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999997909095318
+      },
+      "subclade_entropy": 3.942708267967064e-06
+    },
+    "NODE_0000082": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999975642475281
+      },
+      "clade_entropy": 3.5547306092680774e-05,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999812106817382
+      },
+      "subclade_entropy": 0.00027131208581052227
+    },
+    "NODE_0000083": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999683428287
+      },
+      "clade_entropy": 5.990202368040787e-07,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.999999740839195
+      },
+      "subclade_entropy": 4.830998245182411e-06
+    },
+    "NODE_0000085": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999976171637034
+      },
+      "clade_entropy": 3.482804336152518e-05,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999817676997156
+      },
+      "subclade_entropy": 0.0002639038639699686
+    },
+    "NODE_0000086": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999975643153177
+      },
+      "clade_entropy": 3.554638653261316e-05,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999812908807998
+      },
+      "subclade_entropy": 0.0002702951753992739
+    },
+    "NODE_0000087": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999975646074315
+      },
+      "clade_entropy": 3.554242268136909e-05,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999812952439647
+      },
+      "subclade_entropy": 0.0002702377678620003
+    },
+    "NODE_0000088": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999975910580697
+      },
+      "clade_entropy": 3.5183034224088636e-05,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999815331625602
+      },
+      "subclade_entropy": 0.0002670498280251473
+    },
+    "NODE_0000089": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999656
+      },
+      "clade_entropy": -1.3113627309827396e-14,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.999999999999617
+      },
+      "subclade_entropy": 9.923996931884333e-12
+    },
+    "cdcA/Alaska/14/2023": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2": 0.016671866192097713,
+        "6B.1A.5a.2a": 0.024823419479341007,
+        "6B.1A.5a.2a.1": 0.9585047143285614
+      },
+      "clade_entropy": 0.2006239166199843,
+      "subclade": "D",
+      "subclade_confidence": {
+        "C": 0.021145851359093765,
+        "C.1": 0.02560193990060149,
+        "C.1.1": 0.030270275721570896,
+        "C.1.6": 0.020419363421422972,
+        "C.1.7.1": 0.020430846323519828,
+        "C.1.8": 0.02059576072483395,
+        "C.1.9": 0.020558779118539688,
+        "C.1.9.1": 0.020791619424330676,
+        "C.1.9.2": 0.02052834703260306,
+        "C.1.9.3": 0.021362958259012688,
+        "C.1.9.4": 0.020882236171545863,
+        "D": 0.670656711690087,
+        "D.1": 0.02968700211089326,
+        "D.3": 0.027352616589117144,
+        "D.5": 0.029715692152827638
+      },
+      "subclade_entropy": 1.4985419761177405
+    },
+    "cdcA/Connecticut/17/2023": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.8",
+      "subclade_confidence": {
+        "C.1.8": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "cdcA/District_Of_Columbia/03/2024": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2": 0.010949353271344565,
+        "6B.1A.5a.2a": 0.9800510589981182,
+        "6B.1A.5a.2a.1": 0.008999587730537183
+      },
+      "clade_entropy": 0.1115724513030888,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C": 0.01202868464779117,
+        "C.1": 0.015804333336706732,
+        "C.1.1": 0.011820200143488205,
+        "C.1.6": 0.011622988111003842,
+        "C.1.7.1": 0.011614466353506648,
+        "C.1.8": 0.013932400265177744,
+        "C.1.9": 0.517582480186631,
+        "C.1.9.1": 0.08370827682104882,
+        "C.1.9.2": 0.11578195742548823,
+        "C.1.9.3": 0.016008160696958793,
+        "C.1.9.4": 0.14260656297317323,
+        "D": 0.012210643244948928,
+        "D.1": 0.011720880005766517,
+        "D.3": 0.011865110917484213,
+        "D.5": 0.011692854870826087
+      },
+      "subclade_entropy": 1.6868576319907145
+    },
+    "cdcA/Illinois/18/2023": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2": 0.006902378809431607,
+        "6B.1A.5a.2a": 0.010577009635402536,
+        "6B.1A.5a.2a.1": 0.982520611555166
+      },
+      "clade_entropy": 0.09978678201270133,
+      "subclade": "D",
+      "subclade_confidence": {
+        "C": 0.016037050242735558,
+        "C.1": 0.0193704030686462,
+        "C.1.1": 0.022839274086517508,
+        "C.1.6": 0.015485636405659392,
+        "C.1.7.1": 0.015494128758415906,
+        "C.1.8": 0.015619884260338257,
+        "C.1.9": 0.015599867768460781,
+        "C.1.9.1": 0.01577371696114504,
+        "C.1.9.2": 0.015575574772172213,
+        "C.1.9.3": 0.016196516348261185,
+        "C.1.9.4": 0.015843651144689046,
+        "D": 0.6504302177179963,
+        "D.1": 0.12267120681464161,
+        "D.3": 0.02064929720496898,
+        "D.5": 0.022413574445352125
+      },
+      "subclade_entropy": 1.453106731238852
+    },
+    "cdcA/Michigan/59/2023": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9",
+      "subclade_confidence": {
+        "C.1.9": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "cdcA/Michigan/62/2023": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 0.9999999999999999
+      },
+      "clade_entropy": -9.99866855976916e-13,
+      "subclade": "C.1.8",
+      "subclade_confidence": {
+        "C.1.8": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "cdcA/Tennessee/86/2024": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.5",
+      "subclade_confidence": {
+        "D.5": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "cnicA/Henan-Shancheng/SWL1468/2024": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "crickA/Israel/R18527/2024": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999999999999999
+      },
+      "subclade_entropy": -9.99866855976916e-13
+    },
+    "niidA/Tokyo/EIS10-980/2024": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.5",
+      "subclade_confidence": {
+        "D.5": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "othA/California/LACPHL-INF00606/2024": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D",
+      "subclade_confidence": {
+        "D": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "othA/French_Polynesia/HCL024201357901/2024": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.5",
+      "subclade_confidence": {
+        "D.5": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "othA/Hong_Kong/2931/2024": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.1",
+      "subclade_confidence": {
+        "D.1": 0.9999999999999999
+      },
+      "subclade_entropy": -9.99866855976916e-13
+    },
+    "othA/Scotland/003_203/2024": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.3",
+      "subclade_confidence": {
+        "C.1.9.3": 0.9999999999999999
+      },
+      "subclade_entropy": -9.99866855976916e-13
+    },
+    "othA/Sling/5435/2024": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.4",
+      "subclade_confidence": {
+        "C.1.9.4": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "othA/Vietnam/Binh_Dinh/RV1_240118/2024": {
+      "clade": "6B.1A.5a.2a",
+      "clade_confidence": {
+        "6B.1A.5a.2a": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "C.1.9.1",
+      "subclade_confidence": {
+        "C.1.9.1": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    },
+    "tnicA/Bangkok/P3920/2024": {
+      "clade": "6B.1A.5a.2a.1",
+      "clade_confidence": {
+        "6B.1A.5a.2a.1": 1.0
+      },
+      "clade_entropy": -1.000088900581841e-12,
+      "subclade": "D.3",
+      "subclade_confidence": {
+        "D.3": 1.0
+      },
+      "subclade_entropy": -1.000088900581841e-12
+    }
+  }
+}
