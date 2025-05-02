@@ -1,0 +1,36 @@
+strain	designation	gisaid_epi_isl	passage	center	date	month	type	location
+A/Sydney/5/2021e_F	A/Sydney/5/2021	EPI_ISL_12109635	E3	"Clinical Virology Unit, CDIM"	16/10/2021	Vaccine	Vaccine	NA
+A/Victoria/4897/2022e_F	A/Victoria/4897/2022	EPI_ISL_17830834	E3	Royal Melbourne Hospital	2/10/2022	Vaccine	Vaccine	NA
+A/Wisconsin/67/2022	A/Wisconsin/67/2022	EPI_ISL_15928563	S1	Centers for Disease Control and Prevention	25/10/2022	Vaccine	Vaccine	NA
+A/India/Pun-NIV319324/2021	A/India/Pun-NIV319324/2021	EPI_ISL_3378776	MDCK2	ICMR-National Institute of Virology	4/6/2021	Reference	Reference	NA
+A/Sydney/1/2024_F	A/Sydney/1/2024	EPI_ISL_19030767	MDCK2	Childrens Hospital Westmead	3/1/2024	Reference	Reference	NA
+A/Wisconsin/588/2019	A/Wisconsin/588/2019	EPI_ISL_404460	C1	Centers for Disease Control and Prevention	19/12/2019	Vaccine	Vaccine	NA
+A/Wisconsin/47/2022	A/Wisconsin/47/2022	EPI_ISL_16968015	S2	Centers for Disease Control and Prevention	30/8/2022	Reference	Reference	NA
+A/Darwin/328/2024_F	A/Darwin/328/2024	EPI_ISL_19194701	SIAT1	Royal Darwin Hospital	19/4/2024	NA	Ferret Serology	NA
+A/Darwin/463/2023_F	A/Darwin/463/2023	EPI_ISL_18543903	MDCK1	Royal Darwin Hospital	2/11/2023	NA	Ferret Serology	NA
+A/Darwin/7/2023_F	A/Darwin/7/2023	EPI_ISL_16899269	SIAT1	Royal Darwin Hospital	27/1/2023	NA	Ferret Serology	NA
+A/Sydney/5/2021_F	A/Sydney/5/2021	EPI_ISL_16899233 	MDCK3	"Clinical Virology Unit, CDIM"	15/10/2021	NA	Ferret Serology	NA
+A/Sydney/604/2023_F	A/Sydney/604/2023	EPI_ISL_18139246	MDCK1	Childrens Hospital Westmead	3/7/2023	NA	Ferret Serology	NA
+A/Victoria/376/2024_F	A/Victoria/376/2024	EPI_ISL_19194722 	SIAT1	Monash Medical Centre	4/5/2024	NA	Ferret Serology	NA
+A/Victoria/4897/2022_F_S	A/Victoria/4897/2022	EPI_ISL_16003490 	SIAT1/MDCK1	Royal Melbourne Hospital	2/10/2022	NA	Human Serology	NA
+A/Victoria/650/2023_F	A/Victoria/650/2023	EPI_ISL_17811508	SIAT1	WHO Collaborating Centre for Reference and Research on Influenza	2/2/2023	NA	Ferret Serology	NA
+A/Victoria/3370/2024_S	A/Victoria/3370/2024	EPI_ISL_19574660	SIAT1		4/11/2024	NA	Human Serology	NA
+A/Darwin/1906/2024_S	A/Darwin/1906/2024	EPI_ISL_19676575	SIAT1		8/12/2024	NA	Human Serology	NA
+A/Victoria/3263/2024_S	A/Victoria/3263/2024	EPI_ISL_19561254	SIAT1		1/10/2024	NA	Human Serology	NA
+othA/California/LACPHL-INF00606/2024	A/California/LACPHL-INF00606/2024	EPI_ISL_19556805	Original		17/10/2024	NA	NA	NA
+othA/Scotland/003_203/2024	A/Scotland/003_203/2024	EPI_ISL_19544386		West of Scotland Specialist Virology Centre	3/11/2024	NA	NA	NA
+niidA/Tokyo/EIS10-980/2024	A/Tokyo/EIS10-980/2024	EPI_ISL_19539652	Original	National Institute of Infectious Diseases (NIID)	18/10/2024	NA	NA	NA
+cdcA/Tennessee/86/2024	A/Tennessee/86/2024	EPI_ISL_19539423	OR_IR	Centers for Disease Control and Prevention	14/10/2024	NA	NA	NA
+othA/Sling/5435/2024	A/Sling/5435/2024	EPI_ISL_19631647	original (VTM)	Public Health Wales Microbiology Cardiff	2/12/2024	NA	NA	NA
+tnicA/Bangkok/P3920/2024	A/Bangkok/P3920/2024	EPI_ISL_19633039	Original	Thai National Influenza Center	19/12/2024	NA	NA	NA
+othA/Hong_Kong/2931/2024	A/Hong Kong/2931/2024	EPI_ISL_19636056	MDCK	Hong Kong Department of Health	3/12/2024	NA	NA	NA
+othA/Vietnam/Binh_Dinh/RV1_240118/2024	A/Vietnam/Binh Dinh/RV1 240118/2024	EPI_ISL_19649710		Pasteur Institute in Nha Trang	9/12/2024	NA	NA	NA
+othA/French_Polynesia/HCL024201357901/2024	A/French Polynesia/HCL024201357901/2024	EPI_ISL_19656050	Original	"CNR Virus des Infections Respiratoires, France SUD"	16/12/2024	NA	NA	NA
+cdcA/Michigan/59/2023	A/Michigan/59/2023	EPI_ISL_18527337	OR_IR	Centers for Disease Control and Prevention	9/10/2023	NA	NA	NA
+cdcA/Connecticut/17/2023	A/Connecticut/17/2023	EPI_ISL_18607682	OR_IR	Centers for Disease Control and Prevention	11/11/2023	NA	NA	NA
+cdcA/Michigan/62/2023	A/Michigan/62/2023	EPI_ISL_19175842	Spf2E1	Centers for Disease Control and Prevention	16/10/2023	NA	NA	NA
+cdcA/Alaska/14/2023 	A/Alaska/14/2023 	EPI_ISL_18451811	OR_IR	Centers for Disease Control and Prevention	21/9/2023	NA	NA	NA
+cdcA/Illinois/18/2023 	A/Illinois/18/2023 	EPI_ISL_18337980	OR_IR	Centers for Disease Control and Prevention	5/9/2023	NA	NA	NA
+cdcA/District_Of_Columbia/03/2024 	A/District Of Columbia/03/2024 	EPI_ISL_19014661	OR_IR	Centers for Disease Control and Prevention	26/1/2024	NA	NA	NA
+crickA/Israel/R18527/2024	A/Israel/R18527/2024	EPI_ISL_19687198	cs	Crick Worldwide Influenza Centre	26/12/2024	NA	NA	NA
+cnicA/Henan-Shancheng/SWL1468/2024	A/Henan-Shancheng/SWL1468/2024	EPI_ISL_19674947	C1+C1	WHO Chinese National Influenza Center	17/12/2024	NA	NA	NA

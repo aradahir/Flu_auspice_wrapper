@@ -1,0 +1,45 @@
+strain	designation	gisaid_epi_isl	passage	center	date	month	type	location
+B/BRISBANE/60/2008	B/Brisbane/60/2008	EPI_ISL_28264	E4/E4	Centers for Disease Control and Prevention	4/8/2008	Reference	Reference	
+B/COLORADO/06/2017	B/Colorado/06/2017	EPI_ISL_264099	E3	Centers for Disease Control and Prevention	25/2/2017	Reference	Reference	
+B/VICTORIA/905/2019	B/Victoria/905/2019	EPI_ISL_407256	MDCK1	WHO Collaborating Centre for Reference and Research on Influenza	1/4/2019	Reference	Reference	
+B/CANBERRA/3/2020	B/Canberra/3/2020	EPI_ISL_419646	MDCK1	WHO Collaborating Centre for Reference and Research on Influenza	25/1/2020	Reference	Reference	
+B/WASHINGTON/02/2019	B/Washington/02/2019	EPI_ISL_410580	"C2, MDCK2"	WHO Collaborating Centre for Reference and Research on Influenza	19/1/2019	Reference	Reference	
+B/VICTORIA/2110/2019	B/Victoria/2110/2019	EPI_ISL_428820	E4	WHO Collaborating Centre for Reference and Research on Influenza	29/11/2019	Reference	Reference	
+B/SICHUAN-JINGYANG/12048/2019_F	B/Sichuan-Jingyang/12048/2019	EPI_ISL_3613060 	C2/MDCK2	WHO Chinese National Influenza Center	26/11/2019	Reference	Reference	
+B/SICHUAN-JINGYANG/12048/2019e	B/Sichuan-Jingyang/12048/2019	EPI_ISL_4197188 	E3	WHO Chinese National Influenza Center	26/11/2019	Reference	Ferret Serology	
+B/AUSTRIA/1359417/2021e_F	B/Austria/1359417/2021	EPI_ISL_16967997	E3	WHO Collaborating Centre for Reference and Research on Influenza	16/3/2021	Vaccine	Vaccine	
+B/AUSTRIA/1359417/2021_F_S	B/Austria/1359417/2021	EPI_ISL_16899231	MDCK3/MDCK2	WHO Collaborating Centre for Reference and Research on Influenza	16/3/2021	Reference	Ferret Serology	
+B/HONG_KONG/269/2017	B/Hong_Kong/269/2017	EPI_ISL_285875	E1	Centers for Disease Control and Prevention	24/5/2017	Reference	Reference	
+B/Darwin/11/2021_F	B/Darwin/11/2021	EPI_ISL_6424991	MDCK	WHO Collaborating Centre for Reference and Research on Influenza	1/10/2021		Ferret Serology	
+B/Netherlands/11263/2022_F	B/Netherlands/11263/2022 	EPI_ISL_13983273	MDCK-MIX2/MDCK1  	National Institute for Public Health and the Environment (RIVM)	9/4/2022		Ferret Serology	
+B/Singapore/WUH4618/2021q_F_S	B/Singapore/WUH4618/2021	EPI_ISL_3446792	QMC2	WHO Collaborating Centre for Reference and Research on Influenza	18/6/2021		Human Serology	
+B/Singapore/WUH0784/2021e_F	B/Singapore/WUH0784/2021	EPI_ISL_5332905	E3/E2	WHO Collaborating Centre for Reference and Research on Influenza	2/6/2021		Ferret Serology	
+B/Victoria/16/2023_F	B/Victoria/16/2023	EPI_ISL_16899296	MDCK1		17/1/2023		Ferret Serology	
+B/Victoria/2113/2019e_F	B/Victoria/2113/2019	EPI_ISL_428821	E4	WHO Collaborating Centre for Reference and Research on Influenza	15/11/2019		Ferret Serology	
+B/Darwin/20/2024_S	B/Darwin/20/2024	EPI_ISL_19676636	MDCK1	WHO Collaborating Centre for Reference and Research on Influenza	10/12/2024		Human Serology	
+B/Victoria/154/2024_S	B/Victoria/154/2024	EPI_ISL_19676631	MDCK1	WHO Collaborating Centre for Reference and Research on Influenza	1/12/2024		Human Serology	
+B/South_Australia/37/2024_S	B/South Australia/37/2024	EPI_ISL_19574698	Original	WHO Collaborating Centre for Reference and Research on Influenza	8/11/2024		Human Serology	
+B/South_Australia/12/2023_q	B/South_Australia/12/2023	EPI_ISL_17696410	QMC2	Institute of Medical and Veterinary Science (IMVS)	10/2/2023		QMC	
+B/Victoria/178/2023_q	B/Victoria/178/2023	EPI_ISL_17982006	QMC2	Monash Medical Centre	20/4/2023		QMC	
+B/Darwin/494/2023_q	B/Darwin/494/2023	EPI_ISL_17982009	QMC2	Royal Darwin Hospital	28/4/2023		QMC	
+B/Victoria/194/2023_q	B/Victoria/194/2023	EPI_ISL_17982007	QMC2	Austin Health	25/4/2023		QMC	
+B/Brisbane/2/2023_q	B/Brisbane/2/2023	EPI_ISL_17982005	QMC2	Queensland Children's Hospital	4/4/2023		QMC	
+B/South_Australia/8/2022_e	B/South_Australia/8/2022	EPI_ISL_18013065	E3	Institute of Medical and Veterinary Science (IMVS)	30/11/2022		Egg	
+B/Victoria/3/2023_e	B/Victoria/3/2023	EPI_ISL_18013064 	E3	Austin Health	15/1/2023		Egg	
+B/Victoria/41/2024_e	B/Victoria/41/2024	EPI_ISL_19512177	E2	Royal Melbourne Hospital	14/5/2024		Egg	
+B/Victoria/44/2024_e	B/Victoria/44/2024	EPI_ISL_19512178	E2	Austin Health	26/5/2024		Egg	
+B/Victoria/45/2024_e	B/Victoria/45/2024	EPI_ISL_19512179	E2	Austin Health	16/5/2024		Egg	
+B/Perth/445/2024_e	B/Perth/445/2024	EPI_ISL_19512176	E2	Pathwest QE II Medical Centre	29/4/2024		Egg	
+B/Victoria/34/2024 	B/Victoria/34/2024 	EPI_ISL_19338038	MDCK2	WHO Collaborating Centre for Reference and Research on Influenza	17/3/2024			
+othB/Penrhyndeudraeth/8566/2024	B/Penrhyndeudraeth/8566/2024	EPI_ISL_19467720	original	Public Health Wales Microbiology Cardiff	13/9/2024			
+tnicB/Bangkok/F2847/2024	B/Bangkok/F2847/2024	EPI_ISL_19632899	Original	Thai National Influenza Center	3/12/2024			
+cdcB/Rhode_Island/23/2024	B/Rhode Island/23/2024	EPI_ISL_19647969	OR_IR	Centers for Disease Control and Prevention	8/12/2024			
+othB/Nordrhein-Westfalen/8/2024	B/Nordrhein-Westfalen/8/2024	EPI_ISL_19650341	Original	Robert Koch Institute Nationales Referenzzentrum für Influenza	6/12/2024			
+othB/Netherlands/10721/2024	B/Netherlands/10721/2024	EPI_ISL_19654895	Original	National Institute for Public Health and the Environment (RIVM)	24/12/2024			
+othB/Galicia/GA-CHUAC-215/2024	B/Galicia/GA-CHUAC-215/2024	EPI_ISL_19656188	Original	Hospital Universitario de A Coruña	26/12/2024			
+cdcB/Utah/11/2023	B/Utah/11/2023	EPI_ISL_18709410	OR_IR	Centers for Disease Control and Prevention	14/11/2023			
+cdcB/Ranong/373/2023 	B/Ranong/373/2023 	EPI_ISL_18786269	C1	Centers for Disease Control and Prevention	9/10/2023			
+cdcB/Alabama/07/2023	B/Alabama/07/2023	EPI_ISL_18586713	OR_IR	Centers for Disease Control and Prevention	8/11/2023			
+tnicB/Bangkok/P131/2025	B/Bangkok/P131/2025	EPI_ISL_19690044  	Original	Thai National Influenza Center	15/1/2025			
+cricB/SouthAfrica/R01183/24	B/SouthAfrica/R01183/24	EPI_ISL_19313804		Crick Worldwide Influenza Centre	20/2/2024			
+ukhsaB/England/0360144/2025	B/England/0360144/2025	EPI_ISL_19701870	original	UKHSA / Respiratory Virus Unit	14/1/2025			

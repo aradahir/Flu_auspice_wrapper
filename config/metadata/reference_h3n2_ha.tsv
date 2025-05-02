@@ -1,0 +1,37 @@
+strain	designation	gisaid_epi_isl	passage	center	date	month	type	location
+A/Stockholm/8/2021	A/Stockholm/8/2021	EPI_ISL_3797776  	Original 	"Klinisk mikrobiologi, Karolinska Universitetslaboratoriet, Karolinska Universitetssjukhuset Solna"	10/8/2021	Reference	Reference	
+A/Switzerland/84156/2022    	A/Switzerland/84156/2022  	EPI_ISL_14649046	SIAT1	Swiss National Reference Centre for Influenza	12/4/2022	Reference	Reference	
+A/Nepal/21FL2237/2021	A/Nepal/21FL2237/2021 	EPI_ISL_6424987  	Original	National Public Health Laboratory  	28/7/2021	Reference	Reference	
+A/South_Australia/389/2022  	A/South_Australia/389/2022  	EPI_ISL_16613678	SIAT1	Institute of Medical and Veterinary Science (IMVS)  	7/12/2022	Reference	Reference	
+A/Canberra/302/2023	A/Canberra/302/2023	EPI_ISL_18830827	E2	Canberra Hospital	11/10/2023		Egg	
+A/Thailand/8/2022e_F_S	A/Thailand/8/2022	EPI_ISL_16014504  	E3	"WHO National Influenza Centre, National Institute of Medical Research (NIMR)"	11/7/2022	Vaccine	Vaccine	
+A/Massachusetts/18/2022_S	A/Massachusetts/18/2022 	EPI_ISL_16998756  	S3	Centers for Disease Control and Prevention	4/6/2022	Vaccine	Vaccine	
+A/Darwin/6/2021_F	A/Darwin/6/2021	EPI_ISL_5980164	E5/E2		16/3/2021		Ferret Serology	
+A/Darwin/9/2021e_F	A/Darwin/9/2021	EPI_ISL_16998754	Egg		17/4/2021	Vaccine	Vaccine	
+A/District_Of_Columbia/27/2023	A/District_Of_Columbia/27/2023	EPI_ISL_18862356	OR_IR	DC Public Health Lab	9/12/2023	Vaccine	Vaccine	
+A/Croatia/10136RV/2023e_SH	A/Croatia/10136RV/2023	EPI_ISL_19296516	E3/E1 	Croatian Institue of Public Health	4/12/2023	Vaccine	Vaccine	
+A/Canberra/327/2023_F	A/Canberra/327/2023	EPI_ISL_19030727 	SIAT2	Canberra Hospital  	29/10/2023		Ferret Serology	
+A/Canberra/373/2023e_F	A/Canberra/373/2023	EPI_ISL_19025387	E4	Canberra Hospital  	16/11/2023		Egg	
+A/Sydney/856/2023_F	A/Sydney/856/2023	EPI_ISL_18465635	SIAT2	WHO Collaborating Centre for Reference and Research on Influenza	12/9/2023		Ferret Serology	
+A/Perth/722/2024_F	A/Perth/722/2024	EPI_ISL_19218269	SIAT1	Pathwest QE II Medical Centre	15/4/2024		Ferret Serology	
+A/Victoria/488/2024_F	A/Victoria/488/2024	EPI_ISL_19194678	SIAT1	VIC - Australian Clinical Labs (ACL) - Geelong	15/5/2024		Ferret Serology	
+A/Victoria/979/2024_F	A/Victoria/979/2024	EPI_ISL_19267385	SIAT1	Monash Medical Centre	15/6/2024		Ferret Serology	
+A/Victoria/800/2024_F	A/Victoria/800/2024	EPI_ISL_19301964	SIAT1	Austin Health	7/6/2024		Ferret Serology	
+A/Perth/836/2024_F_S	A/Perth/836/2024	EPI_ISL_19338062	SIAT1	Pathwest QE II Medical Centre	25/6/2024		Human Serology	
+A/Perth/815/2024_S	A/Perth/815/2024	EPI_ISL_19301943	SIAT1	Pathwest QE II Medical Centre	30/5/2024		Human Serology	
+A/Samoa/34/2024_S	A/Samoa/34/2024	EPI_ISL_19574629	SIAT2	Tupua Tamases Meaole Hospital	26/10/2024		Human Serology	
+A/Fiji/295/2024_S	A/Fiji/295/2024	EPI_ISL_19676565	Original	National Centre for Scientific Services for Virology  and Vector Borne Diseases	4/11/2024		Human Serology	
+A/Victoria/478/2024_S	A/Victoria/478/2024	EPI_ISL_19234191	SIAT1	Royal Chidrens Hospital	14/5/2024		Human Serology	
+tnicA/Surat_Thani/F2181/2024	A/Surat_Thani/F2181/2024	EPI_ISL_19531371	Original	Thai National Influenza Center	9/10/2024			
+niidA/Tokyo/EIS10-978/2024	A/Tokyo/EIS10-978/2024	EPI_ISL_19539651	Original	National Institute of Infectious Diseases (NIID)	17/10/2024			
+othA/Netherlands/02051/2024	A/Netherlands/02051/2024	EPI_ISL_19645225	Original	Erasmus Medical Center	16/12/2024			
+cdcA/New_York/209/2024	A/New York/209/2024	EPI_ISL_19646982	OR_IR	Centers for Disease Control and Prevention	2/12/2024			
+othA/Louisiana/15038/2024	A/Louisiana/15038/2024	EPI_ISL_19648259	Original	U.S. Air Force School of Aerospace Medicine	16/12/2024			
+othA/Utah/15051/2024	A/Utah/15051/2024	EPI_ISL_19648272	Original	U.S. Air Force School of Aerospace Medicine	19/12/2024			
+othA/Galicia/GA-CHUAC-157/2024	A/Galicia/GA-CHUAC-157/2024	EPI_ISL_19656162	Original	Hospital Universitario de A Coruña	23/12/2024			
+cdcA/Colorado/06/2024	A/Colorado/06/2024	EPI_ISL_18919750	OR_IR	Centers for Disease Control and Prevention	2/1/2024			
+cdcA/Nevada/32/2023 	A/Nevada/32/2023 	EPI_ISL_18527303	OR_IR	Centers for Disease Control and Prevention	23/10/2023			
+cdcA/Oklahoma/05/2024 	A/Oklahoma/05/2024 	EPI_ISL_18991187	OR_IR	Centers for Disease Control and Prevention	8/2/2024			
+cdcA/Iowa/51/2023	A/Iowa/51/2023	EPI_ISL_18527315 	OR_IR	Centers for Disease Control and Prevention	16/10/2023			
+cdcA/Idaho/69/2023	A/Idaho/69/2023	EPI_ISL_18862410 	OR_IR	Centers for Disease Control and Prevention	27/12/2023			
+crickA/Caerphilly/1560/2024	A/Caerphilly/1560/2024	EPI_ISL_19687069	cs	Crick Worldwide Influenza Centre	13/12/2024			
