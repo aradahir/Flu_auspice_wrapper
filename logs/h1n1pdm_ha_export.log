@@ -1,0 +1,27 @@
+WARNING: [config file] Trait 'passage' is missing type information. We've guessed 'categorical'.
+
+WARNING: [config file] Trait 'type' is missing type information. We've guessed 'categorical'.
+
+WARNING: [config file] Trait 'clade' is missing type information. We've guessed 'categorical'.
+
+WARNING: [config file] Trait 'subclade' is missing type information. We've guessed 'categorical'.
+
+WARNING: [config file] Trait 'location' is missing type information. We've guessed 'categorical'.
+
+WARNING: Geo resolution "country" had no demes with supplied lat/longs and will be excluded from the exported "geo_resolutions".
+
+WARNING: Geo resolution "region" had no demes with supplied lat/longs and will be excluded from the exported "geo_resolutions".
+
+	WARNING:  The filter "country" does not appear as a property on any tree nodes.
+	WARNING:  The filter "region" does not appear as a property on any tree nodes.
+	WARNING:  The filter "author" does not appear as a property on any tree nodes.
+	WARNING:  Default label to display "subclade" isn't found anywhere on the tree!
+Validating schema of 'results/h1n1pdm_ha/tree/h1n1pdm_ha_aa_muts.json'...
+Validating schema of 'results/h1n1pdm_ha/tree/h1n1pdm_ha_nt_muts.json'...
+Validating config file config/auspice_config.json against the JSON schema
+Validating schema of 'config/auspice_config.json'...
+Validating produced JSON
+Validating schema of 'results/h1n1pdm_ha/auspice/h1n1pdm_ha_auspice.json'...
+Validating that the JSON is internally consistent...
+Validation of 'results/h1n1pdm_ha/auspice/h1n1pdm_ha_auspice.json' succeeded, but there were warnings you may want to resolve.
+
