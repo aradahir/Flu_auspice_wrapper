@@ -58,7 +58,7 @@ Activate the snakemake environment for running the pipeline.
         ```
 
 # Output Structure
-
+```
 ├── data/
 │   └── concatenated_files/
 │       └── variant/
@@ -86,6 +86,7 @@ Activate the snakemake environment for running the pipeline.
 │           └── variant_segment_tree_raw.nwk
 ├── formatted_metadata.tsv
     # Reformatted metadata used in the pipeline
+```
 
 
 
